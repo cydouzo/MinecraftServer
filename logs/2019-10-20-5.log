@@ -1,0 +1,82 @@
+[22:48:25] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:48:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:48:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:48:25] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:48:25] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:48:26] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[22:48:26] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[22:48:26] [Server thread/INFO]: Loading properties
+[22:48:26] [Server thread/INFO]: Default game type: SURVIVAL
+[22:48:26] [Server thread/INFO]: Generating keypair
+[22:48:26] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_221]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_221]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_221]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_221]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_221]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_221]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_221]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_221]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_221]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_221]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_221]
+	at uk$2.run(SourceFile:109) [server.jar:?]
+[22:48:27] [Server thread/INFO]: Starting Minecraft server on 192.168.1.44:25565
+[22:48:27] [Server thread/INFO]: Using default channel type
+[22:48:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:48:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:48:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:48:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:48:28] [Server thread/INFO]: Preparing level "world"
+[22:48:29] [Server thread/INFO]: Reloading ResourceManager: Default
+[22:48:29] [Server thread/INFO]: Loaded 6 recipes
+[22:48:30] [Server thread/INFO]: Loaded 811 advancements
+[22:48:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:48:34] [Server thread/INFO]: Preparing spawn area: 0%
+[22:48:34] [Server thread/INFO]: Preparing spawn area: 0%
+[22:48:34] [Server thread/INFO]: Preparing spawn area: 0%
+[22:48:34] [Server thread/INFO]: Preparing spawn area: 0%
+[22:48:34] [Server thread/INFO]: Preparing spawn area: 0%
+[22:48:34] [Server thread/INFO]: Preparing spawn area: 0%
+[22:48:34] [Server thread/INFO]: Preparing spawn area: 0%
+[22:48:41] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:48:41] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[22:48:41] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[22:48:41] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[22:48:41] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:48:41] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[22:48:41] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[22:48:41] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:48:41] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[22:48:41] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:48:41] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[22:48:41] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:48:41] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[22:48:41] [Server thread/INFO]: Preparing spawn area: 0%
+[22:48:41] [Server thread/INFO]: Time elapsed: 10326 ms
+[22:48:41] [Server thread/INFO]: Done (12.912s)! For help, type "help"
+[22:48:43] [Server thread/INFO]: cydouzo[/192.168.1.44:53702] logged in with entity id 331 at (88.66020872179297, 68.0, 26.043538749019262)
+[22:48:43] [Server thread/INFO]: cydouzo joined the game
+[22:48:46] [Server thread/INFO]: paulyn[/192.168.1.6:33126] logged in with entity id 345 at (-373.9533689679137, 62.9375, 145.59470768247823)
+[22:48:46] [Server thread/INFO]: paulyn joined the game
+[22:48:48] [Server thread/INFO]: PaulderLahber[/119.95.4.226:61960] logged in with entity id 510 at (109.95516281222638, 63.9375, 3.518484811727574)
+[22:48:48] [Server thread/INFO]: PaulderLahber joined the game
+[22:49:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
+[22:49:25] [Server thread/INFO]: kirachan[/119.92.11.129:15655] logged in with entity id 712 at (106.3280353610921, 64.0, 3.160233681450004)
+[22:49:25] [Server thread/INFO]: kirachan joined the game
+[22:49:48] [Server thread/WARN]: PaulderLahber moved too quickly! -2.4723752158093077,0.0,9.985224532749996
+[22:49:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35205ms or 704 ticks behind
+[22:50:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 44157ms or 883 ticks behind
+[22:51:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 52008ms or 1040 ticks behind
+[22:53:11] [Server Watchdog/FATAL]: A single server tick took 60.24 seconds (should be max 0.05)
+[22:53:11] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[22:53:11] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\Hedi\Desktop\Minecraft server\.\crash-reports\crash-2019-10-20_22.53.11-server.txt
+[22:53:11] [Server thread/INFO]: Stopping server
+[22:53:11] [Server thread/INFO]: Saving players
+[22:53:11] [Server thread/INFO]: cydouzo lost connection: Internal Exception: java.lang.StackOverflowError
+[22:53:11] [Server thread/INFO]: cydouzo left the game
+[22:53:11] [Server thread/INFO]: Saving worlds
+[22:53:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:53:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:53:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld

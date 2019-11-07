@@ -1,0 +1,619 @@
+[20:45:13] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:45:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:45:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:45:13] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:45:13] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:45:13] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[20:45:13] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[20:45:13] [Server thread/INFO]: Loading properties
+[20:45:13] [Server thread/INFO]: Default game type: SURVIVAL
+[20:45:13] [Server thread/INFO]: Generating keypair
+[20:45:13] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_221]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_221]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_221]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_221]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_221]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_221]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_221]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_221]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_221]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_221]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_221]
+	at uk$2.run(SourceFile:109) [server.jar:?]
+[20:45:14] [Server thread/INFO]: Starting Minecraft server on 192.168.1.44:25565
+[20:45:14] [Server thread/INFO]: Using default channel type
+[20:45:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:45:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:45:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:45:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:45:16] [Server thread/INFO]: Preparing level "world"
+[20:45:17] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:45:18] [Server thread/INFO]: Loaded 6 recipes
+[20:45:18] [Server thread/INFO]: Loaded 811 advancements
+[20:45:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:45:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:31] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:45:31] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[20:45:31] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[20:45:31] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:45:31] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[20:45:31] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[20:45:31] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[20:45:31] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[20:45:31] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:45:31] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[20:45:31] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[20:45:31] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[20:45:31] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[20:45:31] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[20:45:31] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:45:31] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[20:45:31] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:45:31] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[20:45:31] [Server thread/INFO]: Time elapsed: 11845 ms
+[20:45:31] [Server thread/INFO]: Done (15.660s)! For help, type "help"
+[20:45:32] [Server thread/INFO]: kirachan[/119.92.11.129:14859] logged in with entity id 309 at (92.30000001192093, 64.0, 16.257824684294388)
+[20:45:32] [Server thread/INFO]: kirachan joined the game
+[20:45:32] [Server thread/INFO]: PaulderLahber[/119.95.4.226:57996] logged in with entity id 310 at (92.69999998807907, 63.5, 13.96601554715726)
+[20:45:32] [Server thread/INFO]: PaulderLahber joined the game
+[20:45:32] [Server thread/INFO]: paulyn[/192.168.1.6:33018] logged in with entity id 312 at (207.47765939753347, 63.0, 61.70943581058441)
+[20:45:32] [Server thread/INFO]: paulyn joined the game
+[20:45:33] [Server thread/INFO]: PaulderLahber lost connection: You logged in from another location
+[20:45:33] [Server thread/INFO]: PaulderLahber left the game
+[20:45:33] [Server thread/INFO]: PaulderLahber[/119.95.4.226:58016] logged in with entity id 311 at (92.69999998807907, 63.5, 13.96601554715726)
+[20:45:33] [Server thread/INFO]: PaulderLahber joined the game
+[20:45:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20:45:42] [Server thread/INFO]: cydouzo[/192.168.1.44:53209] logged in with entity id 361 at (92.45953322906013, 64.0, 20.343774290193053)
+[20:45:42] [Server thread/INFO]: cydouzo joined the game
+[20:45:45] [Server thread/INFO]: [kirachan: Gamerule randomTickSpeed is now set to: 100]
+[20:45:51] [Server thread/INFO]: PaulderLahber lost connection: Disconnected
+[20:45:51] [Server thread/INFO]: PaulderLahber left the game
+[20:45:53] [Server thread/INFO]: PaulderLahber[/119.95.4.226:58033] logged in with entity id 408 at (92.69999998807907, 63.5, 13.96601554715726)
+[20:45:53] [Server thread/INFO]: PaulderLahber joined the game
+[20:46:13] [Server thread/INFO]: [kirachan: Gamerule randomTickSpeed is now set to: 300]
+[20:46:33] [Server thread/INFO]: PaulderLahber has made the advancement [Acquire Hardware]
+[20:48:29] [Server thread/INFO]: kirachan has made the advancement [Not Today, Thank You]
+[20:48:36] [Server thread/INFO]: kirachan was slain by Zombie
+[20:49:24] [Server thread/INFO]: kirachan was slain by Zombie
+[20:49:49] [Server thread/INFO]: cydouzo lost connection: Disconnected
+[20:49:49] [Server thread/INFO]: cydouzo left the game
+[20:50:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[20:50:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13858ms or 277 ticks behind
+[20:50:45] [Server thread/INFO]: cydouzo[/192.168.1.44:53334] logged in with entity id 1400 at (69.18820706315026, 63.0, 21.956669279367418)
+[20:50:45] [Server thread/INFO]: cydouzo joined the game
+[20:51:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4973ms or 99 ticks behind
+[20:51:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20:52:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6690ms or 133 ticks behind
+[20:52:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6584ms or 131 ticks behind
+[20:52:38] [Server thread/INFO]: PaulderLahber was killed by Witch using magic
+[20:52:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3695ms or 73 ticks behind
+[20:53:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7482ms or 149 ticks behind
+[20:53:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5703ms or 114 ticks behind
+[20:53:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2459ms or 49 ticks behind
+[20:54:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21103ms or 422 ticks behind
+[20:55:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36529ms or 730 ticks behind
+[20:55:43] [Server thread/INFO]: [kirachan: Summoned new Iron Golem]
+[20:55:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32434ms or 648 ticks behind
+[20:56:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30534ms or 610 ticks behind
+[20:57:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30613ms or 612 ticks behind
+[20:58:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30866ms or 617 ticks behind
+[20:58:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26112ms or 522 ticks behind
+[20:59:04] [Server thread/INFO]: PaulderLahber has made the advancement [Suit Up]
+[20:59:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27643ms or 552 ticks behind
+[21:00:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28824ms or 576 ticks behind
+[21:01:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29439ms or 588 ticks behind
+[21:01:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24814ms or 496 ticks behind
+[21:01:56] [Server thread/WARN]: paulyn moved too quickly! -9.999855956715379,1.6326055766710539,-0.21925675934458866
+[21:02:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22747ms or 454 ticks behind
+[21:02:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15515ms or 310 ticks behind
+[21:03:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15854ms or 317 ticks behind
+[21:03:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20685ms or 413 ticks behind
+[21:04:09] [Server thread/INFO]: kirachan has made the advancement [Suit Up]
+[21:04:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23992ms or 479 ticks behind
+[21:05:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21776ms or 435 ticks behind
+[21:05:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26545ms or 530 ticks behind
+[21:06:11] [Server thread/INFO]: paulyn was blown up by Creeper
+[21:06:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21121ms or 422 ticks behind
+[21:07:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15948ms or 318 ticks behind
+[21:07:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13367ms or 267 ticks behind
+[21:08:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14773ms or 295 ticks behind
+[21:08:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17764ms or 355 ticks behind
+[21:09:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14533ms or 290 ticks behind
+[21:09:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12685ms or 253 ticks behind
+[21:09:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10811ms or 216 ticks behind
+[21:10:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8706ms or 174 ticks behind
+[21:10:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12112ms or 242 ticks behind
+[21:11:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15518ms or 310 ticks behind
+[21:11:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15160ms or 303 ticks behind
+[21:12:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14189ms or 283 ticks behind
+[21:12:26] [Server thread/WARN]: kirachan moved too quickly! 9.832248511371546,0.0,2.683682408030517
+[21:12:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16486ms or 329 ticks behind
+[21:13:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16166ms or 323 ticks behind
+[21:14:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24718ms or 494 ticks behind
+[21:14:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20717ms or 414 ticks behind
+[21:15:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26517ms or 530 ticks behind
+[21:16:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31185ms or 623 ticks behind
+[21:16:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30519ms or 610 ticks behind
+[21:17:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24811ms or 496 ticks behind
+[21:18:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25348ms or 506 ticks behind
+[21:18:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/4916, l='world', x=94.43, y=12.63, z=4.71]
+[21:18:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/4916, l='world', x=94.43, y=12.63, z=4.71]
+[21:18:09] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/4916, l='world', x=94.43, y=12.63, z=4.71]
+[21:18:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27814ms or 556 ticks behind
+[21:19:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26661ms or 533 ticks behind
+[21:19:42] [Server thread/INFO]: [kirachan: Set own game mode to Creative Mode]
+[21:20:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22286ms or 445 ticks behind
+[21:20:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15825ms or 316 ticks behind
+[21:21:07] [Server thread/INFO]: [kirachan: Set own game mode to Survival Mode]
+[21:21:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15328ms or 306 ticks behind
+[21:21:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26539ms or 530 ticks behind
+[21:22:23] [Server thread/WARN]: Fetching packet for removed entity atx['Cobblestone'/5531, l='world', x=112.33, y=13.00, z=-41.13]
+[21:22:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 38072ms or 761 ticks behind
+[21:23:13] [Server thread/WARN]: cydouzo moved wrongly!
+[21:23:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 47543ms or 950 ticks behind
+[21:25:03] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[21:25:03] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[21:25:03] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\Hedi\Desktop\Minecraft server\.\crash-reports\crash-2019-10-20_21.25.03-server.txt
+[21:25:04] [Server thread/INFO]: Stopping server
+[21:25:04] [Server thread/INFO]: Saving players
+[21:25:04] [Server thread/INFO]: kirachan lost connection: Internal Exception: java.lang.StackOverflowError
+[21:25:04] [Server thread/INFO]: kirachan left the game
+[21:25:04] [Server thread/INFO]: PaulderLahber lost connection: Internal Exception: java.lang.StackOverflowError
+[21:25:04] [Server thread/INFO]: PaulderLahber left the game
+[21:25:04] [Server thread/INFO]: Saving worlds
+[21:25:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:25:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:25:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[21:25:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:25:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[21:25:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:25:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:25:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:25:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:25:15] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:25:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:25:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:25:15] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:25:15] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:25:16] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[21:25:16] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[21:25:16] [Server thread/INFO]: Loading properties
+[21:25:16] [Server thread/INFO]: Default game type: SURVIVAL
+[21:25:16] [Server thread/INFO]: Generating keypair
+[21:25:16] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_221]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_221]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_221]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_221]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_221]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_221]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_221]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_221]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_221]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_221]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_221]
+	at uk$2.run(SourceFile:109) [server.jar:?]
+[21:25:17] [Server thread/INFO]: Starting Minecraft server on 192.168.1.44:25565
+[21:25:17] [Server thread/INFO]: Using default channel type
+[21:25:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:25:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:25:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:25:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:25:18] [Server thread/INFO]: Preparing level "world"
+[21:25:19] [Server thread/INFO]: Reloading ResourceManager: Default
+[21:25:19] [Server thread/INFO]: Loaded 6 recipes
+[21:25:20] [Server thread/INFO]: Loaded 811 advancements
+[21:25:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:25:23] [Server thread/INFO]: Preparing spawn area: 0%
+[21:25:23] [Server thread/INFO]: Preparing spawn area: 0%
+[21:25:23] [Server thread/INFO]: Preparing spawn area: 0%
+[21:25:23] [Server thread/INFO]: Preparing spawn area: 0%
+[21:25:23] [Server thread/INFO]: Preparing spawn area: 0%
+[21:25:23] [Server thread/INFO]: Preparing spawn area: 0%
+[21:25:24] [Server thread/INFO]: Preparing spawn area: 0%
+[21:25:31] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:25:31] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:25:31] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[21:25:31] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[21:25:31] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[21:25:31] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[21:25:31] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:25:31] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:25:31] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:25:31] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:25:31] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[21:25:31] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[21:25:31] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:25:31] [Server thread/INFO]: Preparing spawn area: 0%
+[21:25:31] [Server thread/INFO]: Time elapsed: 10315 ms
+[21:25:31] [Server thread/INFO]: Done (12.674s)! For help, type "help"
+[21:25:31] [Server thread/INFO]: cydouzo[/192.168.1.44:53415] logged in with entity id 303 at (92.4477697594784, 22.5, -30.280170713960977)
+[21:25:31] [Server thread/INFO]: cydouzo joined the game
+[21:25:32] [Server thread/INFO]: paulyn[/192.168.1.6:33054] logged in with entity id 304 at (269.5311661551191, 70.0, 323.01004840894467)
+[21:25:32] [Server thread/INFO]: paulyn joined the game
+[21:25:32] [Server thread/INFO]: PaulderLahber[/119.95.4.226:59283] logged in with entity id 305 at (85.16992743450612, 64.0, 25.808908958681215)
+[21:25:32] [Server thread/INFO]: PaulderLahber joined the game
+[21:25:40] [Server thread/INFO]: kirachan[/119.92.11.129:15132] logged in with entity id 397 at (82.94609287349174, 64.0, 25.67981637054982)
+[21:25:40] [Server thread/INFO]: kirachan joined the game
+[21:26:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:26:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:26:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12580ms or 251 ticks behind
+[21:27:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 37640ms or 752 ticks behind
+[21:28:09] [Server thread/WARN]: Boat moved wrongly!
+[21:28:09] [Server thread/WARN]: Boat moved wrongly!
+[21:28:09] [Server thread/WARN]: Boat moved wrongly!
+[21:28:09] [Server thread/WARN]: Boat moved wrongly!
+[21:28:09] [Server thread/WARN]: Boat moved wrongly!
+[21:28:09] [Server thread/WARN]: Boat moved wrongly!
+[21:28:09] [Server thread/WARN]: Boat moved wrongly!
+[21:28:09] [Server thread/WARN]: Boat moved wrongly!
+[21:28:09] [Server thread/WARN]: Boat moved wrongly!
+[21:28:09] [Server thread/WARN]: Boat moved wrongly!
+[21:28:09] [Server thread/WARN]: Boat moved wrongly!
+[21:28:09] [Server thread/WARN]: Boat moved wrongly!
+[21:28:09] [Server thread/WARN]: Boat moved wrongly!
+[21:28:09] [Server thread/WARN]: Boat moved wrongly!
+[21:28:09] [Server thread/WARN]: Boat moved wrongly!
+[21:28:09] [Server thread/WARN]: Boat moved wrongly!
+[21:28:09] [Server thread/WARN]: Boat moved wrongly!
+[21:28:09] [Server thread/WARN]: Boat moved wrongly!
+[21:28:09] [Server thread/WARN]: Boat moved wrongly!
+[21:28:10] [Server thread/WARN]: Boat moved wrongly!
+[21:28:10] [Server thread/WARN]: Boat moved wrongly!
+[21:28:10] [Server thread/WARN]: Boat moved wrongly!
+[21:28:10] [Server thread/WARN]: Boat moved wrongly!
+[21:28:10] [Server thread/WARN]: Boat moved wrongly!
+[21:28:10] [Server thread/WARN]: Boat moved wrongly!
+[21:28:10] [Server thread/WARN]: Boat moved wrongly!
+[21:28:10] [Server thread/WARN]: Boat moved wrongly!
+[21:28:10] [Server thread/WARN]: Boat moved wrongly!
+[21:28:10] [Server thread/WARN]: Boat moved wrongly!
+[21:28:10] [Server thread/WARN]: Boat moved wrongly!
+[21:28:10] [Server thread/WARN]: Boat moved wrongly!
+[21:28:10] [Server thread/WARN]: Boat moved wrongly!
+[21:28:10] [Server thread/WARN]: Boat moved wrongly!
+[21:28:10] [Server thread/WARN]: Boat moved wrongly!
+[21:28:10] [Server thread/WARN]: Boat moved wrongly!
+[21:28:10] [Server thread/WARN]: Boat moved wrongly!
+[21:28:10] [Server thread/WARN]: Boat moved wrongly!
+[21:28:10] [Server thread/WARN]: Boat moved wrongly!
+[21:28:10] [Server thread/WARN]: Boat moved wrongly!
+[21:28:19] [Server thread/WARN]: Boat moved wrongly!
+[21:28:19] [Server thread/WARN]: Boat moved wrongly!
+[21:28:19] [Server thread/WARN]: Boat moved wrongly!
+[21:28:19] [Server thread/WARN]: Boat moved wrongly!
+[21:28:19] [Server thread/WARN]: Boat moved wrongly!
+[21:28:19] [Server thread/WARN]: Boat moved wrongly!
+[21:28:19] [Server thread/WARN]: Boat moved wrongly!
+[21:28:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30404ms or 608 ticks behind
+[21:28:39] [Server thread/INFO]: [kirachan: Teleported kirachan to paulyn]
+[21:28:56] [Server thread/INFO]: [kirachan: Teleported kirachan to PaulderLahber]
+[21:29:08] [Server thread/INFO]: [kirachan: Teleported paulyn to kirachan]
+[21:29:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25200ms or 504 ticks behind
+[21:29:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8947ms or 178 ticks behind
+[21:30:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11114ms or 222 ticks behind
+[21:30:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8264ms or 165 ticks behind
+[21:30:33] [Server thread/WARN]: Boat moved wrongly!
+[21:30:33] [Server thread/WARN]: Boat moved wrongly!
+[21:30:33] [Server thread/WARN]: Boat moved wrongly!
+[21:30:33] [Server thread/WARN]: Boat moved wrongly!
+[21:30:33] [Server thread/WARN]: Boat moved wrongly!
+[21:30:33] [Server thread/WARN]: Boat moved wrongly!
+[21:30:33] [Server thread/WARN]: Boat moved wrongly!
+[21:30:33] [Server thread/WARN]: Boat moved wrongly!
+[21:30:42] [Server thread/WARN]: Boat moved wrongly!
+[21:30:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5854ms or 117 ticks behind
+[21:31:08] [Server thread/WARN]: Boat moved wrongly!
+[21:31:08] [Server thread/WARN]: Boat moved wrongly!
+[21:31:08] [Server thread/WARN]: Boat moved wrongly!
+[21:31:08] [Server thread/WARN]: Boat moved wrongly!
+[21:31:08] [Server thread/WARN]: Boat moved wrongly!
+[21:31:08] [Server thread/WARN]: Boat moved wrongly!
+[21:31:08] [Server thread/WARN]: Boat moved wrongly!
+[21:31:08] [Server thread/WARN]: Boat moved wrongly!
+[21:31:08] [Server thread/WARN]: Boat moved wrongly!
+[21:31:08] [Server thread/WARN]: Boat moved wrongly!
+[21:31:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6850ms or 137 ticks behind
+[21:31:21] [Server thread/WARN]: Boat moved wrongly!
+[21:31:21] [Server thread/WARN]: Boat moved wrongly!
+[21:31:21] [Server thread/WARN]: Boat moved wrongly!
+[21:31:21] [Server thread/WARN]: Boat moved wrongly!
+[21:31:21] [Server thread/WARN]: Boat moved wrongly!
+[21:31:21] [Server thread/WARN]: Boat moved wrongly!
+[21:31:21] [Server thread/WARN]: Boat moved wrongly!
+[21:31:22] [Server thread/WARN]: Boat moved wrongly!
+[21:31:22] [Server thread/WARN]: Boat moved wrongly!
+[21:31:22] [Server thread/WARN]: Boat moved wrongly!
+[21:31:22] [Server thread/WARN]: Boat moved wrongly!
+[21:31:24] [Server thread/WARN]: Boat moved wrongly!
+[21:31:24] [Server thread/WARN]: Boat moved wrongly!
+[21:31:24] [Server thread/WARN]: Boat moved wrongly!
+[21:31:24] [Server thread/WARN]: Boat moved wrongly!
+[21:31:24] [Server thread/WARN]: Boat moved wrongly!
+[21:31:24] [Server thread/WARN]: Boat moved wrongly!
+[21:31:24] [Server thread/WARN]: Boat moved wrongly!
+[21:31:24] [Server thread/WARN]: Boat moved wrongly!
+[21:31:24] [Server thread/WARN]: Boat moved wrongly!
+[21:31:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7404ms or 148 ticks behind
+[21:31:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7237ms or 144 ticks behind
+[21:32:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[21:32:30] [Server thread/INFO]: paulyn lost connection: Disconnected
+[21:32:30] [Server thread/INFO]: paulyn left the game
+[21:32:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10106ms or 202 ticks behind
+[21:32:57] [Server thread/INFO]: paulyn[/192.168.1.6:33072] logged in with entity id 1456 at (72.95152586138508, 62.073265257466744, 81.46519381923537)
+[21:32:57] [Server thread/INFO]: paulyn joined the game
+[21:33:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9913ms or 198 ticks behind
+[21:33:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7249ms or 144 ticks behind
+[21:33:57] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.718509989395727,0.0,-9.946962366714779
+[21:33:57] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.7713900459093495,0.0,-10.336538923240532
+[21:33:57] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.811649190315201,0.0,-10.726479926581092
+[21:33:57] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.83922317108032,0.0,-11.116478289706102
+[21:33:57] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.8541978341662,0.0,-11.506247114075766
+[21:33:57] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.8567738653916592,0.0,-11.895524946283253
+[21:33:57] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.8472462577142394,0.0,-12.284080631967335
+[21:33:57] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.8259785786437277,0.0,-12.671713467305015
+[21:33:57] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.7933909644341313,0.0,-13.058255097417202
+[21:33:57] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.7499386176855936,0.0,-13.443566165989559
+[21:33:57] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.6961035295434073,0.0,-13.827535989590917
+[21:33:57] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.632387141436027,0.0,-14.21008159028234
+[21:33:57] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.5592932874748513,0.0,-14.591141706416419
+[21:33:57] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.477327221303703,0.0,-14.970676614037913
+[21:33:57] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.38698779352827,0.0,-15.34866456122899
+[21:33:58] [Server thread/INFO]: [kirachan: Teleported PaulderLahber to kirachan]
+[21:33:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12497ms or 249 ticks behind
+[21:34:15] [Server thread/INFO]: PaulderLahber has made the advancement [Diamonds!]
+[21:34:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10160ms or 203 ticks behind
+[21:34:38] [Server thread/INFO]: kirachan has made the advancement [Tactical Fishing]
+[21:34:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9224ms or 184 ticks behind
+[21:35:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9491ms or 189 ticks behind
+[21:35:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8938ms or 178 ticks behind
+[21:35:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4346ms or 86 ticks behind
+[21:36:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[21:36:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13610ms or 272 ticks behind
+[21:36:55] [Server thread/INFO]: /advancement (grant|revoke)
+[21:36:55] [Server thread/INFO]: /ban <targets> [<reason>]
+[21:36:55] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[21:36:55] [Server thread/INFO]: /banlist [ips|players]
+[21:36:55] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[21:36:55] [Server thread/INFO]: /clear [<targets>]
+[21:36:55] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[21:36:55] [Server thread/INFO]: /data (get|merge|modify|remove)
+[21:36:55] [Server thread/INFO]: /datapack (disable|enable|list)
+[21:36:55] [Server thread/INFO]: /debug (report|start|stop)
+[21:36:55] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[21:36:55] [Server thread/INFO]: /deop <targets>
+[21:36:55] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[21:36:55] [Server thread/INFO]: /effect (clear|give)
+[21:36:55] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[21:36:55] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[21:36:55] [Server thread/INFO]: /experience (add|query|set)
+[21:36:55] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[21:36:55] [Server thread/INFO]: /forceload (add|query|remove)
+[21:36:55] [Server thread/INFO]: /function <name>
+[21:36:55] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[21:36:55] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doLimitedCrafting|doMobLoot|doMobSpawning|doTileDrops|doWeatherCycle|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
+[21:36:55] [Server thread/INFO]: /give <targets> <item> [<count>]
+[21:36:55] [Server thread/INFO]: /help [<command>]
+[21:36:55] [Server thread/INFO]: /kick <targets> [<reason>]
+[21:36:55] [Server thread/INFO]: /kill <targets>
+[21:36:55] [Server thread/INFO]: /list [uuids]
+[21:36:55] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Pillager_Outpost|Shipwreck|Stronghold|Swamp_Hut|Village)
+[21:36:55] [Server thread/INFO]: /loot (give|insert|replace|spawn)
+[21:36:55] [Server thread/INFO]: /me <action>
+[21:36:55] [Server thread/INFO]: /msg <targets> <message>
+[21:36:55] [Server thread/INFO]: /op <targets>
+[21:36:55] [Server thread/INFO]: /pardon <targets>
+[21:36:55] [Server thread/INFO]: /pardon-ip <target>
+[21:36:55] [Server thread/INFO]: /particle <name> [<pos>]
+[21:36:55] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[21:36:55] [Server thread/INFO]: /recipe (give|take)
+[21:36:55] [Server thread/INFO]: /reload
+[21:36:55] [Server thread/INFO]: /replaceitem (block|entity)
+[21:36:55] [Server thread/INFO]: /save-all [flush]
+[21:36:55] [Server thread/INFO]: /save-off
+[21:36:55] [Server thread/INFO]: /save-on
+[21:36:55] [Server thread/INFO]: /say <message>
+[21:36:55] [Server thread/INFO]: /schedule function <function> <time>
+[21:36:55] [Server thread/INFO]: /scoreboard (objectives|players)
+[21:36:55] [Server thread/INFO]: /seed
+[21:36:55] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[21:36:55] [Server thread/INFO]: /setidletimeout <minutes>
+[21:36:55] [Server thread/INFO]: /setworldspawn [<pos>]
+[21:36:55] [Server thread/INFO]: /spawnpoint [<targets>]
+[21:36:55] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
+[21:36:55] [Server thread/INFO]: /stop
+[21:36:55] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[21:36:55] [Server thread/INFO]: /summon <entity> [<pos>]
+[21:36:55] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[21:36:55] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[21:36:55] [Server thread/INFO]: /teammsg <message>
+[21:36:55] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[21:36:55] [Server thread/INFO]: /tell -> msg
+[21:36:55] [Server thread/INFO]: /tellraw <targets> <message>
+[21:36:55] [Server thread/INFO]: /time (add|query|set)
+[21:36:55] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[21:36:55] [Server thread/INFO]: /tm -> teammsg
+[21:36:55] [Server thread/INFO]: /tp -> teleport
+[21:36:55] [Server thread/INFO]: /trigger <objective> [add|set]
+[21:36:55] [Server thread/INFO]: /w -> msg
+[21:36:55] [Server thread/INFO]: /weather (clear|rain|thunder)
+[21:36:55] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[21:36:55] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[21:36:55] [Server thread/INFO]: /xp -> experience
+[21:37:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13024ms or 260 ticks behind
+[21:37:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11894ms or 237 ticks behind
+[21:37:40] [Server thread/INFO]: Incorrect argument for command
+[21:37:40] [Server thread/INFO]: gamemode cydouzo creative<--[HERE]
+[21:37:47] [Server thread/INFO]: Made cydouzo a server operator
+[21:37:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3112ms or 62 ticks behind
+[21:38:02] [Server thread/INFO]: <PaulderLahber> hello
+[21:38:03] [Server thread/INFO]: <cydouzo> gamemode creative
+[21:38:11] [Server thread/INFO]: [cydouzo: Set own game mode to Creative Mode]
+[21:39:04] [Server thread/INFO]: cydouzo has made the advancement [Sweet Dreams]
+[21:39:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2329ms or 46 ticks behind
+[21:39:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9749ms or 194 ticks behind
+[21:40:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9140ms or 182 ticks behind
+[21:40:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9146ms or 182 ticks behind
+[21:40:47] [Server thread/INFO]: kirachan has made the advancement [Sweet Dreams]
+[21:41:07] [Server thread/INFO]: [kirachan: Summoned new Sheep]
+[21:42:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[21:42:24] [Server thread/INFO]: [kirachan: Summoned new Sheep]
+[21:42:34] [Server thread/INFO]: [kirachan: Summoned new Sheep]
+[21:42:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5988ms or 119 ticks behind
+[21:42:43] [Server thread/INFO]: [kirachan: Summoned new Sheep]
+[21:43:34] [Server thread/INFO]: paulyn has made the advancement [Sweet Dreams]
+[21:43:58] [Server thread/INFO]: PaulderLahber has made the advancement [Sweet Dreams]
+[21:44:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[21:44:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8554ms or 171 ticks behind
+[21:44:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11859ms or 237 ticks behind
+[21:45:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14111ms or 282 ticks behind
+[21:46:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18698ms or 373 ticks behind
+[21:46:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27431ms or 548 ticks behind
+[21:47:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28309ms or 566 ticks behind
+[21:48:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30555ms or 611 ticks behind
+[21:48:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32712ms or 654 ticks behind
+[21:49:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25921ms or 518 ticks behind
+[21:50:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26440ms or 528 ticks behind
+[21:50:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22689ms or 453 ticks behind
+[21:51:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20974ms or 419 ticks behind
+[21:52:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23218ms or 464 ticks behind
+[21:52:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20883ms or 417 ticks behind
+[21:53:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11205ms or 224 ticks behind
+[21:53:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10162ms or 203 ticks behind
+[21:54:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10877ms or 217 ticks behind
+[21:54:15] [Server thread/INFO]: [kirachan: Set own game mode to Creative Mode]
+[21:54:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8149ms or 162 ticks behind
+[21:54:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5783ms or 115 ticks behind
+[21:54:52] [Server thread/INFO]: [kirachan: Set PaulderLahber's game mode to Creative Mode]
+[21:55:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10893ms or 217 ticks behind
+[21:55:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9856ms or 197 ticks behind
+[21:56:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8978ms or 179 ticks behind
+[21:56:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9097ms or 181 ticks behind
+[21:56:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9505ms or 190 ticks behind
+[21:57:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8117ms or 162 ticks behind
+[21:57:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11484ms or 229 ticks behind
+[21:58:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9430ms or 188 ticks behind
+[21:58:31] [Server thread/WARN]: PaulderLahber moved too quickly! 1.570142694377921,0.0,10.080038363180233
+[21:58:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12993ms or 259 ticks behind
+[21:58:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9277ms or 185 ticks behind
+[21:59:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9000ms or 180 ticks behind
+[21:59:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7654ms or 153 ticks behind
+[22:00:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7784ms or 155 ticks behind
+[22:00:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8838ms or 176 ticks behind
+[22:01:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13583ms or 271 ticks behind
+[22:01:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13164ms or 263 ticks behind
+[22:01:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12626ms or 252 ticks behind
+[22:02:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10776ms or 215 ticks behind
+[22:02:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9304ms or 186 ticks behind
+[22:03:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8059ms or 161 ticks behind
+[22:03:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8510ms or 170 ticks behind
+[22:04:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11895ms or 237 ticks behind
+[22:04:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12100ms or 242 ticks behind
+[22:04:49] [Server thread/INFO]: [kirachan: Set the time to 1000]
+[22:04:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10870ms or 217 ticks behind
+[22:05:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9404ms or 188 ticks behind
+[22:05:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8060ms or 161 ticks behind
+[22:06:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8240ms or 164 ticks behind
+[22:06:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7896ms or 157 ticks behind
+[22:06:28] [Server thread/INFO]: kirachan has made the advancement [Diamonds!]
+[22:06:51] [Server thread/INFO]: [PaulderLahber: Set own game mode to Survival Mode]
+[22:06:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10557ms or 211 ticks behind
+[22:07:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10979ms or 219 ticks behind
+[22:07:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9798ms or 195 ticks behind
+[22:08:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10633ms or 212 ticks behind
+[22:08:26] [Server thread/INFO]: [PaulderLahber: Set own game mode to Creative Mode]
+[22:08:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9546ms or 190 ticks behind
+[22:08:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9218ms or 184 ticks behind
+[22:09:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7563ms or 151 ticks behind
+[22:09:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7475ms or 149 ticks behind
+[22:10:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7365ms or 147 ticks behind
+[22:10:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8228ms or 164 ticks behind
+[22:10:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11069ms or 221 ticks behind
+[22:11:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9450ms or 189 ticks behind
+[22:11:40] [Server thread/INFO]: [kirachan: Set own game mode to Survival Mode]
+[22:11:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8359ms or 167 ticks behind
+[22:12:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7117ms or 142 ticks behind
+[22:12:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7959ms or 159 ticks behind
+[22:12:28] [Server thread/INFO]: kirachan has made the advancement [A Seedy Place]
+[22:12:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9554ms or 191 ticks behind
+[22:13:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8684ms or 173 ticks behind
+[22:13:19] [Server thread/INFO]: paulyn has made the advancement [The Parrots and the Bats]
+[22:13:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11420ms or 228 ticks behind
+[22:13:51] [Server thread/INFO]: [PaulderLahber: Set own game mode to Survival Mode]
+[22:14:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11090ms or 221 ticks behind
+[22:14:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11426ms or 228 ticks behind
+[22:15:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12545ms or 250 ticks behind
+[22:15:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10714ms or 214 ticks behind
+[22:15:48] [Server thread/INFO]: [kirachan: Set own game mode to Creative Mode]
+[22:15:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9243ms or 184 ticks behind
+[22:16:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9741ms or 194 ticks behind
+[22:16:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10161ms or 203 ticks behind
+[22:16:53] [Server thread/INFO]: [kirachan: Set own game mode to Survival Mode]
+[22:17:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7501ms or 150 ticks behind
+[22:17:09] [Server thread/INFO]: [kirachan: Set own game mode to Creative Mode]
+[22:17:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9162ms or 183 ticks behind
+[22:17:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9542ms or 190 ticks behind
+[22:18:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9575ms or 191 ticks behind
+[22:18:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9577ms or 191 ticks behind
+[22:19:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8571ms or 171 ticks behind
+[22:19:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8450ms or 169 ticks behind
+[22:19:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8165ms or 163 ticks behind
+[22:20:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8010ms or 160 ticks behind
+[22:20:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8708ms or 174 ticks behind
+[22:21:05] [Server thread/INFO]: [kirachan: Set the time to 1000]
+[22:21:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13618ms or 272 ticks behind
+[22:21:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10487ms or 209 ticks behind
+[22:21:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9239ms or 184 ticks behind
+[22:22:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8345ms or 166 ticks behind
+[22:22:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8175ms or 163 ticks behind
+[22:23:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10234ms or 204 ticks behind
+[22:23:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7042ms or 140 ticks behind
+[22:23:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6390ms or 127 ticks behind
+[22:24:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9139ms or 182 ticks behind
+[22:24:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8561ms or 171 ticks behind
+[22:25:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9564ms or 191 ticks behind
+[22:25:17] [Server thread/INFO]: [PaulderLahber: Summoned new Cow]
+[22:25:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8541ms or 170 ticks behind
+[22:25:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8090ms or 161 ticks behind
+[22:25:57] [Server thread/WARN]: kirachan moved too quickly! 9.202521553488964,0.0,-4.728044770010392
+[22:26:09] [Server thread/INFO]: [PaulderLahber: Set own game mode to Creative Mode]
+[22:26:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9682ms or 193 ticks behind
+[22:26:31] [Server thread/INFO]: [PaulderLahber: Set own game mode to Survival Mode]
+[22:26:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7184ms or 143 ticks behind
+[22:26:46] [Server thread/INFO]: [PaulderLahber: Set own game mode to Creative Mode]
+[22:27:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8042ms or 160 ticks behind
+[22:27:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11068ms or 221 ticks behind
+[22:27:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13007ms or 260 ticks behind
+[22:28:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13356ms or 267 ticks behind
+[22:28:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17410ms or 348 ticks behind
+[22:29:27] [Server thread/INFO]: <kirachan> rin
+[22:29:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33760ms or 675 ticks behind
+[22:30:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35518ms or 710 ticks behind
+[22:30:34] [Server thread/WARN]: cydouzo moved too quickly! 6.687310339057461,0.0,-7.479952047212553
+[22:31:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 48593ms or 971 ticks behind
+[22:32:14] [Server thread/INFO]: [kirachan: Teleported PaulderLahber to kirachan]
+[22:32:40] [Server thread/WARN]: cydouzo moved too quickly! -6.393899882865725,-5.990555063382786,5.021387193335915
+[22:32:46] [Server thread/WARN]: cydouzo moved too quickly! 9.58320214627598,2.5069013220152954,-1.856987539612991
+[22:32:48] [Server Watchdog/FATAL]: A single server tick took 60.37 seconds (should be max 0.05)
+[22:32:48] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[22:32:48] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\Hedi\Desktop\Minecraft server\.\crash-reports\crash-2019-10-20_22.32.48-server.txt
+[22:32:48] [Server thread/INFO]: Stopping server
+[22:32:48] [Server thread/INFO]: Saving players
+[22:32:48] [Server thread/INFO]: cydouzo lost connection: Internal Exception: java.lang.StackOverflowError
+[22:32:48] [Server thread/INFO]: cydouzo left the game
+[22:32:48] [Server thread/INFO]: kirachan lost connection: Internal Exception: java.lang.StackOverflowError
+[22:32:48] [Server thread/INFO]: kirachan left the game
+[22:32:49] [Server thread/INFO]: Saving worlds
+[22:32:49] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:32:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:32:49] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:32:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:32:49] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld

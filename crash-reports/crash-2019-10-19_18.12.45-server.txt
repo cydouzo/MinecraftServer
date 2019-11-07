@@ -1,0 +1,32 @@
+---- Minecraft Crash Report ----
+// Shall we play a game?
+
+Time: 10/19/19 6:12 PM
+Description: Exception in server tick loop
+
+java.lang.NullPointerException: Exception in server tick loop
+	at tx.a(SourceFile:97)
+	at tc.a(SourceFile:211)
+	at td.a(SourceFile:728)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:508)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:699)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:584)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.13.2
+	Operating System: Windows 10 (x86) version 10.0
+	Java Version: 1.8.0_221, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode, sharing), Oracle Corporation
+	Memory: 81955872 bytes (78 MB) / 259522560 bytes (247 MB) up to 259522560 bytes (247 MB)
+	JVM Flags: 0 total; 
+	Profiler Position: N/A (disabled)
+	Player Count: 2 / 20; [tf['cydouzo'/272, l='world', x=90.35, y=64.00, z=27.74], tf['paulyn'/273, l='world', x=92.42, y=70.00, z=-61.62]]
+	Data Packs: vanilla
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
