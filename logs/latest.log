@@ -1,196 +1,262 @@
-[00:02:35] [Server thread/INFO]: kirachan[/119.92.15.115:8344] logged in with entity id 317 at (86.75122605211314, 64.0, 29.19604095650409)
-[00:02:35] [Server thread/INFO]: kirachan joined the game
-[00:03:09] [Server thread/INFO]: PaulderLahber[/119.95.4.226:56460] logged in with entity id 453 at (55.30000001192093, 61.02499314368343, 60.45815370412487)
-[00:03:09] [Server thread/INFO]: PaulderLahber joined the game
-[00:03:48] [Server thread/INFO]: [PaulderLahber: Set own game mode to Creative Mode]
-[00:03:58] [Server thread/INFO]: <PaulderLahber> discord
-[00:04:12] [Server thread/INFO]: [kirachan: Summoned new Leash Knot]
-[00:04:32] [Server thread/INFO]: <PaulderLahber> lol wtf
-[00:04:39] [Server thread/INFO]: <kirachan> HAHAHAHAHAHA
-[00:04:43] [Server thread/INFO]: <PaulderLahber> hoy answer me on discord
-[00:05:46] [Server thread/INFO]: <PaulderLahber> the fuck
-[00:06:03] [Server thread/INFO]: <kirachan> LOL LOOK AT THE LLAMAS
-[00:06:26] [Server thread/INFO]: <kirachan> HAHAHAHAHAHAHAHAHA
-[00:07:19] [Server thread/INFO]: [kirachan: Teleported 2 entities to kirachan]
-[00:07:33] [Server thread/INFO]: <kirachan> LOOK
-[00:07:41] [Server thread/INFO]: <kirachan> APPEARING COWS
-[00:07:49] [Server thread/INFO]: <kirachan> AND SHEEP
-[00:07:51] [Server thread/INFO]: <PaulderLahber> HAHAHAHA
-[00:07:58] [Server thread/INFO]: <PaulderLahber> DISCORD HOY
-[00:08:38] [Server thread/INFO]: [PaulderLahber: Set own game mode to Survival Mode]
-[00:09:01] [Server thread/INFO]: <PaulderLahber> oh shit
-[00:09:07] [Server thread/INFO]: <PaulderLahber> creeper explode in house
-[00:09:36] [Server thread/INFO]: [PaulderLahber: Set own game mode to Creative Mode]
-[00:12:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1976, l='world', x=78.44, y=63.00, z=29.83]
-[00:12:07] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1976, l='world', x=78.44, y=63.00, z=29.83]
-[00:12:39] [Server thread/INFO]: [kirachan: Set own game mode to Survival Mode]
-[00:15:24] [Server thread/INFO]: [kirachan: Set own game mode to Creative Mode]
-[00:15:30] [Server thread/INFO]: [kirachan: Set own game mode to Survival Mode]
-[00:15:56] [Server thread/INFO]: /advancement (grant|revoke)
-[00:15:56] [Server thread/INFO]: /ban <targets> [<reason>]
-[00:15:56] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[00:15:56] [Server thread/INFO]: /banlist [ips|players]
-[00:15:56] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
-[00:15:56] [Server thread/INFO]: /clear [<targets>]
-[00:15:56] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
-[00:15:56] [Server thread/INFO]: /data (get|merge|modify|remove)
-[00:15:56] [Server thread/INFO]: /datapack (disable|enable|list)
-[00:15:56] [Server thread/INFO]: /debug (report|start|stop)
-[00:15:56] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
-[00:15:56] [Server thread/INFO]: /deop <targets>
-[00:15:56] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
-[00:15:56] [Server thread/INFO]: /effect (clear|give)
-[00:15:56] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[00:15:56] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
-[00:15:56] [Server thread/INFO]: /experience (add|query|set)
-[00:15:56] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
-[00:15:56] [Server thread/INFO]: /forceload (add|query|remove)
-[00:15:56] [Server thread/INFO]: /function <name>
-[00:15:56] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
-[00:15:56] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doLimitedCrafting|doMobLoot|doMobSpawning|doTileDrops|doWeatherCycle|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
-[00:15:56] [Server thread/INFO]: /give <targets> <item> [<count>]
-[00:15:56] [Server thread/INFO]: /help [<command>]
-[00:15:56] [Server thread/INFO]: /kick <targets> [<reason>]
-[00:15:56] [Server thread/INFO]: /kill <targets>
-[00:15:56] [Server thread/INFO]: /list [uuids]
-[00:15:56] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Pillager_Outpost|Shipwreck|Stronghold|Swamp_Hut|Village)
-[00:15:56] [Server thread/INFO]: /loot (give|insert|replace|spawn)
-[00:15:56] [Server thread/INFO]: /me <action>
-[00:15:56] [Server thread/INFO]: /msg <targets> <message>
-[00:15:56] [Server thread/INFO]: /op <targets>
-[00:15:56] [Server thread/INFO]: /pardon <targets>
-[00:15:56] [Server thread/INFO]: /pardon-ip <target>
-[00:15:56] [Server thread/INFO]: /particle <name> [<pos>]
-[00:15:56] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
-[00:15:56] [Server thread/INFO]: /recipe (give|take)
-[00:15:56] [Server thread/INFO]: /reload
-[00:15:56] [Server thread/INFO]: /replaceitem (block|entity)
-[00:15:56] [Server thread/INFO]: /save-all [flush]
-[00:15:56] [Server thread/INFO]: /save-off
-[00:15:56] [Server thread/INFO]: /save-on
-[00:15:56] [Server thread/INFO]: /say <message>
-[00:15:56] [Server thread/INFO]: /schedule function <function> <time>
-[00:15:56] [Server thread/INFO]: /scoreboard (objectives|players)
-[00:15:56] [Server thread/INFO]: /seed
-[00:15:56] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[00:15:56] [Server thread/INFO]: /setidletimeout <minutes>
-[00:15:56] [Server thread/INFO]: /setworldspawn [<pos>]
-[00:15:56] [Server thread/INFO]: /spawnpoint [<targets>]
-[00:15:56] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
-[00:15:56] [Server thread/INFO]: /stop
-[00:15:56] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
-[00:15:56] [Server thread/INFO]: /summon <entity> [<pos>]
-[00:15:56] [Server thread/INFO]: /tag <targets> (add|list|remove)
-[00:15:56] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
-[00:15:56] [Server thread/INFO]: /teammsg <message>
-[00:15:56] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
-[00:15:56] [Server thread/INFO]: /tell -> msg
-[00:15:56] [Server thread/INFO]: /tellraw <targets> <message>
-[00:15:56] [Server thread/INFO]: /time (add|query|set)
-[00:15:56] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
-[00:15:56] [Server thread/INFO]: /tm -> teammsg
-[00:15:56] [Server thread/INFO]: /tp -> teleport
-[00:15:56] [Server thread/INFO]: /trigger <objective> [add|set]
-[00:15:56] [Server thread/INFO]: /w -> msg
-[00:15:56] [Server thread/INFO]: /weather (clear|rain|thunder)
-[00:15:56] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
-[00:15:56] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
-[00:15:56] [Server thread/INFO]: /xp -> experience
-[00:16:08] [Server thread/INFO]: [Server] kyra stop cheating!
-[00:16:25] [Server thread/INFO]: [PaulderLahber: Set own game mode to Survival Mode]
-[00:16:28] [Server thread/INFO]: <PaulderLahber> HAHAHAHA
-[00:16:34] [Server thread/INFO]: <PaulderLahber> yeah kyra, stop
-[00:16:42] [Server thread/INFO]: <kirachan> I PROTECT HOUSE
-[00:16:47] [Server thread/INFO]: <kirachan> WITH BERRY BUSH
-[00:17:17] [Server thread/INFO]: [Server] counting on you bro
-[00:18:12] [Server thread/INFO]: [kirachan: Gamerule randomTickSpeed is now set to: 50]
-[00:34:28] [Server thread/INFO]: PaulderLahber has made the advancement [Not Today, Thank You]
-[00:34:58] [Server thread/INFO]: kirachan has made the advancement [Take Aim]
-[00:40:25] [Server thread/INFO]: PaulderLahber has made the advancement [Best Friends Forever]
-[00:44:52] [Server thread/INFO]: [kirachan: Teleported PaulderLahber to kirachan]
-[01:13:20] [Server thread/INFO]: kirachan has made the advancement [Ice Bucket Challenge]
-[01:35:24] [Server thread/INFO]: kirachan fell from a high place
-[01:35:42] [Server thread/INFO]: [kirachan: Teleported kirachan to PaulderLahber]
-[01:36:30] [Server thread/INFO]: [kirachan: Set the time to 1000]
-[01:38:23] [Server thread/INFO]: [kirachan: Teleported PaulderLahber to kirachan]
-[01:43:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/17110, l='world', x=76.19, y=63.00, z=31.14]
-[01:43:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/17110, l='world', x=76.19, y=63.00, z=31.14]
-[01:49:41] [Server thread/INFO]: [kirachan: Teleported PaulderLahber to kirachan]
-[01:49:50] [Server thread/INFO]: [kirachan: Teleported PaulderLahber to kirachan]
-[01:50:02] [Server thread/INFO]: [kirachan: Teleported kirachan to PaulderLahber]
-[01:54:53] [Server thread/INFO]: kirachan has made the advancement [The Parrots and the Bats]
-[02:21:24] [Server thread/INFO]: [kirachan: Set spawn point to 100, 55, 20 for kirachan]
-[02:21:35] [Server thread/INFO]: [kirachan: Set spawn point to 101, 60, 29 for kirachan]
-[02:22:00] [Server thread/INFO]: [kirachan: Set the world spawn point to 101, 55, 20]
-[02:22:24] [Server thread/INFO]: [kirachan: Set spawn point to 100, 59, 37 for kirachan]
-[02:22:27] [Server thread/INFO]: [PaulderLahber: Set spawn point to 100, 59, 34 for PaulderLahber]
-[02:32:27] [Server thread/INFO]: kirachan has made the advancement [Enchanter]
-[02:35:19] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/25547, l='world', x=77.66, y=63.00, z=29.83]
-[02:35:19] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/25547, l='world', x=77.66, y=63.00, z=29.83]
-[02:36:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/25746, l='world', x=77.77, y=63.00, z=31.78]
-[02:36:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/25746, l='world', x=77.77, y=63.00, z=31.78]
-[02:37:43] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/25911, l='world', x=78.03, y=63.00, z=30.86]
-[02:37:43] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/25911, l='world', x=78.03, y=63.00, z=30.86]
-[02:44:50] [Server thread/INFO]: PaulderLahber has made the advancement [We Need to Go Deeper]
-[02:44:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5537ms or 110 ticks behind
-[02:44:54] [Server thread/INFO]: kirachan has made the advancement [We Need to Go Deeper]
-[02:45:27] [Server thread/INFO]: PaulderLahber burned to death
-[02:45:39] [Server thread/INFO]: kirachan burned to death
-[02:46:05] [Server thread/WARN]: Fetching packet for removed entity aiu['Experience Orb'/27451, l='world', x=24.29, y=59.04, z=-0.41]
-[02:46:16] [Server thread/INFO]: PaulderLahber was fireballed by Ghast
-[02:46:18] [Server thread/INFO]: kirachan went up in flames
-[02:47:28] [Server thread/INFO]: kirachan tried to swim in lava
-[02:47:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/29198, l='world', x=76.06, y=63.00, z=32.24]
-[02:47:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/29198, l='world', x=76.06, y=63.00, z=32.24]
-[02:48:14] [Server thread/INFO]: kirachan tried to swim in lava
-[02:49:05] [Server thread/INFO]: kirachan tried to swim in lava
-[02:50:04] [Server thread/INFO]: kirachan fell from a high place
-[02:51:49] [Server thread/INFO]: [kirachan: Teleported kirachan to PaulderLahber]
-[02:52:42] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/30764, l='world', x=75.83, y=63.00, z=30.79]
-[02:52:42] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/30764, l='world', x=75.83, y=63.00, z=30.79]
-[02:53:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/30966, l='world', x=75.83, y=63.00, z=31.61]
-[02:53:56] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/30966, l='world', x=75.83, y=63.00, z=31.61]
-[03:08:54] [Server thread/INFO]: kirachan was slain by Zombie Pigman
-[03:08:59] [Server thread/INFO]: PaulderLahber was slain by Zombie Pigman
-[03:09:46] [Server thread/INFO]: [kirachan: Gave 15 experience points to 2 players]
-[03:10:23] [Server thread/INFO]: [kirachan: Gave 1 [Raw Chicken] to 2]
-[03:10:38] [Server thread/INFO]: [kirachan: Gave 1000 experience points to 2 players]
-[03:11:01] [Server thread/INFO]: kirachan has made the advancement [Cover Me With Diamonds]
-[03:11:01] [Server thread/INFO]: PaulderLahber has made the advancement [Cover Me With Diamonds]
-[03:11:01] [Server thread/INFO]: [kirachan: Gave 1 [Diamond Chestplate] to 2]
-[03:11:19] [Server thread/INFO]: [kirachan: Gave 1 [Diamond Helmet] to 2]
-[03:11:52] [Server thread/INFO]: kirachan tried to swim in lava
-[03:19:57] [Server thread/INFO]: [kirachan: Set own game mode to Creative Mode]
-[03:22:42] [Server thread/INFO]: [kirachan: Teleported PaulderLahber to kirachan]
-[03:26:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/43661, l='world', x=123.16, y=62.07, z=37.22]
-[03:26:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/43661, l='world', x=123.16, y=62.07, z=37.22]
-[03:26:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/43663, l='world', x=123.23, y=62.09, z=38.36]
-[03:26:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/43663, l='world', x=123.23, y=62.09, z=38.36]
-[03:26:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/43668, l='world', x=123.45, y=62.11, z=41.18]
-[03:26:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/43668, l='world', x=123.45, y=62.11, z=41.18]
-[03:30:19] [Server thread/INFO]: [kirachan: Set own game mode to Survival Mode]
-[03:31:11] [Server thread/INFO]: [kirachan: Teleported kirachan to PaulderLahber]
-[03:32:16] [Server thread/INFO]: [kirachan: Gave 1 [Oak Sign] to kirachan]
-[03:33:22] [Server thread/INFO]: [kirachan: Teleported kirachan to PaulderLahber]
-[03:33:48] [Server thread/INFO]: [kirachan: Set the world spawn point to 87, 64, 28]
-[03:35:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/45222, l='world', x=78.49, y=63.00, z=30.02]
-[03:35:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/45222, l='world', x=78.49, y=63.00, z=30.02]
-[03:36:56] [Server thread/INFO]: [kirachan: Set own game mode to Creative Mode]
-[03:37:26] [Server thread/INFO]: PaulderLahber lost connection: Disconnected
-[03:37:26] [Server thread/INFO]: PaulderLahber left the game
-[03:42:24] [Server thread/INFO]: [kirachan: Set own game mode to Survival Mode]
-[03:42:30] [Server thread/INFO]: kirachan lost connection: Disconnected
-[03:42:30] [Server thread/INFO]: kirachan left the game
-[08:45:25] [Server thread/INFO]: Stopping the server
-[08:45:25] [Server thread/INFO]: Stopping server
-[08:45:25] [Server thread/INFO]: Saving players
-[08:45:25] [Server thread/INFO]: Saving worlds
-[08:45:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[08:45:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:45:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[08:45:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:45:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[08:45:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:45:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:45:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:45:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:00:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/33515, l='world', x=76.72, y=63.00, z=32.28]
+[00:00:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/33515, l='world', x=76.72, y=63.00, z=32.28]
+[00:03:39] [Server thread/INFO]: cydouzo was burnt to a crisp whilst fighting Ghast
+[00:03:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/34366, l='world', x=77.12, y=63.00, z=33.61]
+[00:04:42] [Server thread/WARN]: kirachan moved wrongly!
+[00:05:56] [Server thread/INFO]: cydouzo burned to death
+[00:07:12] [Server thread/INFO]: [kirachan: Teleported kirachan to PaulderLahber]
+[00:08:54] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/35860, l='world', x=79.07, y=63.00, z=31.32]
+[00:09:00] [Server thread/INFO]: paulyn hit the ground too hard whilst trying to escape Ghast
+[00:09:34] [Server thread/INFO]: [kirachan: Teleported paulyn to cydouzo]
+[00:09:44] [Server thread/WARN]: kirachan moved wrongly!
+[00:12:03] [Server thread/INFO]: [kirachan: Set own game mode to Creative Mode]
+[00:12:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/36771, l='world', x=79.44, y=63.00, z=30.43]
+[00:12:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/36771, l='world', x=79.44, y=63.00, z=30.43]
+[00:12:44] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/36771, l='world', x=79.44, y=63.00, z=30.43]
+[00:13:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/36866, l='world', x=77.63, y=63.00, z=31.09]
+[00:16:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/37371, l='world', x=83.97, y=63.00, z=35.55]
+[00:16:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/37371, l='world', x=83.97, y=63.00, z=35.55]
+[00:16:01] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/37371, l='world', x=83.97, y=63.00, z=35.55]
+[00:16:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/37391, l='world', x=76.19, y=63.00, z=31.17]
+[00:16:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/37391, l='world', x=76.19, y=63.00, z=31.17]
+[00:16:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/37391, l='world', x=76.19, y=63.00, z=31.17]
+[00:16:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/37391, l='world', x=76.19, y=63.00, z=31.17]
+[00:18:19] [Server thread/WARN]: paulyn moved wrongly!
+[00:24:10] [Server thread/WARN]: cydouzo moved wrongly!
+[00:25:37] [Server thread/INFO]: [kirachan: Set own game mode to Spectator Mode]
+[00:26:18] [Server thread/INFO]: [cydouzo: Set own game mode to Spectator Mode]
+[00:26:57] [Server thread/INFO]: [kirachan: Set own game mode to Survival Mode]
+[00:27:42] [Server thread/INFO]: [cydouzo: Set own game mode to Survival Mode]
+[00:28:25] [Server thread/INFO]: [PaulderLahber: Set own game mode to Creative Mode]
+[00:28:51] [Server thread/INFO]: Banned PaulderLahber: Banned by an operator.
+[00:28:51] [Server thread/INFO]: PaulderLahber lost connection: You are banned from this server
+[00:28:51] [Server thread/INFO]: PaulderLahber left the game
+[00:28:51] [Server thread/WARN]: handleDisconnection() called twice
+[00:29:07] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1cceac82[id=d2ef7d92-79d0-3918-9b41-b2384fac46fc,name=PaulderLahber,properties={},legacy=false] (/119.95.4.226:62311): You are banned from this server.
+Reason: Banned by an operator.
+[00:29:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@1cceac82[id=d2ef7d92-79d0-3918-9b41-b2384fac46fc,name=PaulderLahber,properties={},legacy=false] (/119.95.4.226:62311) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[00:29:31] [Server thread/INFO]: Unknown command
+[00:29:31] [Server thread/INFO]: /unban Pau<--[HERE]
+[00:29:35] [Server thread/INFO]: Unknown command
+[00:29:35] [Server thread/INFO]: /whitelist<--[HERE]
+[00:29:40] [Server thread/INFO]: /advancement (grant|revoke)
+[00:29:40] [Server thread/INFO]: /ban <targets> [<reason>]
+[00:29:40] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[00:29:40] [Server thread/INFO]: /banlist [ips|players]
+[00:29:40] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[00:29:40] [Server thread/INFO]: /clear [<targets>]
+[00:29:40] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[00:29:40] [Server thread/INFO]: /data (get|merge|modify|remove)
+[00:29:40] [Server thread/INFO]: /datapack (disable|enable|list)
+[00:29:40] [Server thread/INFO]: /debug (report|start|stop)
+[00:29:40] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[00:29:40] [Server thread/INFO]: /deop <targets>
+[00:29:40] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[00:29:40] [Server thread/INFO]: /effect (clear|give)
+[00:29:40] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[00:29:40] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[00:29:40] [Server thread/INFO]: /experience (add|query|set)
+[00:29:40] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[00:29:40] [Server thread/INFO]: /forceload (add|query|remove)
+[00:29:40] [Server thread/INFO]: /function <name>
+[00:29:40] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[00:29:40] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doLimitedCrafting|doMobLoot|doMobSpawning|doTileDrops|doWeatherCycle|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
+[00:29:40] [Server thread/INFO]: /give <targets> <item> [<count>]
+[00:29:40] [Server thread/INFO]: /help [<command>]
+[00:29:40] [Server thread/INFO]: /kick <targets> [<reason>]
+[00:29:40] [Server thread/INFO]: /kill <targets>
+[00:29:40] [Server thread/INFO]: /list [uuids]
+[00:29:40] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Pillager_Outpost|Shipwreck|Stronghold|Swamp_Hut|Village)
+[00:29:40] [Server thread/INFO]: /loot (give|insert|replace|spawn)
+[00:29:40] [Server thread/INFO]: /me <action>
+[00:29:40] [Server thread/INFO]: /msg <targets> <message>
+[00:29:40] [Server thread/INFO]: /op <targets>
+[00:29:40] [Server thread/INFO]: /pardon <targets>
+[00:29:40] [Server thread/INFO]: /pardon-ip <target>
+[00:29:40] [Server thread/INFO]: /particle <name> [<pos>]
+[00:29:40] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[00:29:40] [Server thread/INFO]: /recipe (give|take)
+[00:29:40] [Server thread/INFO]: /reload
+[00:29:40] [Server thread/INFO]: /replaceitem (block|entity)
+[00:29:40] [Server thread/INFO]: /save-all [flush]
+[00:29:40] [Server thread/INFO]: /save-off
+[00:29:40] [Server thread/INFO]: /save-on
+[00:29:40] [Server thread/INFO]: /say <message>
+[00:29:40] [Server thread/INFO]: /schedule function <function> <time>
+[00:29:40] [Server thread/INFO]: /scoreboard (objectives|players)
+[00:29:40] [Server thread/INFO]: /seed
+[00:29:40] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[00:29:40] [Server thread/INFO]: /setidletimeout <minutes>
+[00:29:40] [Server thread/INFO]: /setworldspawn [<pos>]
+[00:29:40] [Server thread/INFO]: /spawnpoint [<targets>]
+[00:29:40] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
+[00:29:40] [Server thread/INFO]: /stop
+[00:29:40] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[00:29:40] [Server thread/INFO]: /summon <entity> [<pos>]
+[00:29:40] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[00:29:40] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[00:29:40] [Server thread/INFO]: /teammsg <message>
+[00:29:40] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[00:29:40] [Server thread/INFO]: /tell -> msg
+[00:29:40] [Server thread/INFO]: /tellraw <targets> <message>
+[00:29:40] [Server thread/INFO]: /time (add|query|set)
+[00:29:40] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[00:29:40] [Server thread/INFO]: /tm -> teammsg
+[00:29:40] [Server thread/INFO]: /tp -> teleport
+[00:29:40] [Server thread/INFO]: /trigger <objective> [add|set]
+[00:29:40] [Server thread/INFO]: /w -> msg
+[00:29:40] [Server thread/INFO]: /weather (clear|rain|thunder)
+[00:29:40] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[00:29:40] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[00:29:40] [Server thread/INFO]: /xp -> experience
+[00:30:06] [Server thread/INFO]: Unbanned PaulderLahber
+[00:30:17] [Server thread/INFO]: PaulderLahber[/119.95.4.226:62317] logged in with entity id 40481 at (78.43306065516992, 63.0, 33.10933062087698)
+[00:30:17] [Server thread/INFO]: PaulderLahber joined the game
+[00:30:28] [Server thread/INFO]: [Server] I hereby pardon this potato
+[00:30:46] [Server thread/INFO]: paulyn lost connection: Disconnected
+[00:30:46] [Server thread/INFO]: paulyn left the game
+[00:31:21] [Server thread/INFO]: [kirachan: Gave 15 [Obsidian] to PaulderLahber]
+[00:31:28] [Server thread/INFO]: [PaulderLahber: Set own game mode to Survival Mode]
+[00:32:28] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/40867, l='world', x=77.07, y=63.00, z=30.30]
+[00:32:28] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/40867, l='world', x=77.07, y=63.00, z=30.30]
+[00:32:28] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/40867, l='world', x=77.07, y=63.00, z=30.30]
+[00:33:07] [Server thread/INFO]: [kirachan: Set own game mode to Creative Mode]
+[00:33:16] [Server thread/INFO]: [Server] DIIIIIIIIIIIIIIIIIE
+[00:33:41] [Server thread/INFO]: You whisper to kirachan: omae wa mou shindeiru
+[00:33:50] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/41146, l='world', x=78.65, y=63.04, z=30.90]
+[00:33:50] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/41146, l='world', x=78.65, y=63.04, z=30.90]
+[00:33:50] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/41146, l='world', x=78.65, y=63.04, z=30.90]
+[00:34:03] [Server thread/INFO]: [kirachan: Set own game mode to Survival Mode]
+[00:38:13] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/41916, l='world', x=77.80, y=62.00, z=32.20]
+[00:38:13] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/41916, l='world', x=77.80, y=62.00, z=32.20]
+[00:38:13] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/41916, l='world', x=77.80, y=62.00, z=32.20]
+[00:38:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/41922, l='world', x=78.36, y=63.00, z=30.71]
+[00:38:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/41922, l='world', x=78.36, y=63.00, z=30.71]
+[00:38:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/41922, l='world', x=78.36, y=63.00, z=30.71]
+[00:39:16] [Server thread/INFO]: cydouzo lost connection: Disconnected
+[00:39:16] [Server thread/INFO]: cydouzo left the game
+[00:39:18] [Server thread/INFO]: [kirachan: Gave 64 [Arrow] to 2]
+[00:39:42] [Server thread/INFO]: [kirachan: Gave 1 [Bow] to 2]
+[00:41:32] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/42558, l='world', x=139.67, y=71.00, z=-33.36]
+[00:41:32] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/42558, l='world', x=139.67, y=71.00, z=-33.36]
+[00:41:49] [Server thread/INFO]: [PaulderLahber: Teleported PaulderLahber to kirachan]
+[00:42:13] [Server thread/INFO]: [kirachan: Gave 1 [Uncraftable Potion] to 2]
+[00:42:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/42634, l='world', x=77.67, y=63.00, z=31.52]
+[00:42:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/42634, l='world', x=77.67, y=63.00, z=31.52]
+[00:43:24] [Server thread/INFO]: [PaulderLahber: Teleported PaulderLahber to kirachan]
+[00:49:07] [Server thread/INFO]: [kirachan: Gave 1 [Diamond Pickaxe] to 2]
+[00:51:40] [Server thread/INFO]: kirachan has made the advancement [A Terrible Fortress]
+[00:53:14] [Server thread/INFO]: PaulderLahber has made the advancement [A Terrible Fortress]
+[00:53:27] [Server thread/INFO]: kirachan has made the advancement [Into Fire]
+[01:02:47] [Server thread/INFO]: [kirachan: Gave 1 [Obsidian] to kirachan]
+[01:03:07] [Server thread/INFO]: [kirachan: Gave 15 [Obsidian] to kirachan]
+[01:03:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8662ms or 173 ticks behind
+[01:06:12] [Server thread/INFO]: [kirachan: Gamerule randomTickSpeed is now set to: 150]
+[01:06:21] [Server thread/INFO]: PaulderLahber fell from a high place
+[01:06:52] [Server thread/INFO]: [PaulderLahber: Teleported PaulderLahber to kirachan]
+[01:08:31] [Server thread/INFO]: [kirachan: Set the time to 1000]
+[01:08:35] [Server thread/INFO]: [kirachan: Set the weather to clear]
+[01:09:02] [Server thread/INFO]: [PaulderLahber: Set own game mode to Creative Mode]
+[01:09:07] [Server thread/INFO]: [kirachan: Gamerule randomTickSpeed is now set to: 500]
+[01:10:08] [Server thread/INFO]: [kirachan: Gamerule randomTickSpeed is now set to: 50]
+[01:12:59] [Server thread/INFO]: [PaulderLahber: Teleported PaulderLahber to kirachan]
+[01:13:19] [Server thread/INFO]: [PaulderLahber: Teleported PaulderLahber to kirachan]
+[01:13:41] [Server thread/INFO]: [kirachan: Set the weather to clear]
+[01:14:05] [Server thread/INFO]: [PaulderLahber: Set own game mode to Survival Mode]
+[01:14:07] [Server thread/INFO]: [kirachan: Gave 1 [Arrow] to 2]
+[01:15:22] [Server thread/INFO]: [kirachan: Gave 1 [Compass] to 2]
+[01:16:23] [Server thread/WARN]: Boat (vehicle of kirachan) moved too quickly! 8.724570723396823,0.0,-5.229329136720025
+[01:16:23] [Server thread/WARN]: Boat (vehicle of kirachan) moved too quickly! 9.035424940097869,0.0,-5.47125447641065
+[01:16:23] [Server thread/WARN]: Boat (vehicle of kirachan) moved too quickly! 9.337486635998516,0.0,-5.7221991110927775
+[01:16:23] [Server thread/WARN]: Boat (vehicle of kirachan) moved too quickly! 9.630214623236157,0.0,-5.982171702386495
+[01:16:23] [Server thread/WARN]: Boat (vehicle of kirachan) moved too quickly! 9.913232051048794,0.0,-6.251037117536725
+[01:16:23] [Server thread/WARN]: Boat (vehicle of kirachan) moved too quickly! 10.18630457039012,0.0,-6.5285550679445805
+[01:16:23] [Server thread/WARN]: Boat (vehicle of kirachan) moved too quickly! 10.449324420412268,0.0,-6.814408319883114
+[01:16:23] [Server thread/WARN]: Boat (vehicle of kirachan) moved too quickly! 10.702290488563222,0.0,-7.108227514171631
+[01:16:23] [Server thread/WARN]: Boat (vehicle of kirachan) moved too quickly! 10.945292078308512,0.0,-7.40960968173431
+[01:20:14] [Server thread/INFO]: [kirachan: Set own game mode to Creative Mode]
+[01:20:35] [Server thread/INFO]: [PaulderLahber: Set own game mode to Creative Mode]
+[01:24:22] [Server thread/INFO]: [kirachan: Gamerule keepInventory is now set to: true]
+[01:24:27] [Server thread/INFO]: kirachan fell out of the world
+[01:24:27] [Server thread/INFO]: [kirachan: Killed kirachan]
+[01:24:34] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/51911, l='world', x=77.00, y=63.00, z=31.98]
+[01:24:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/51917, l='world', x=76.66, y=63.00, z=31.05]
+[01:24:39] [Server thread/INFO]: [kirachan: Teleported PaulderLahber to kirachan]
+[01:24:58] [Server thread/INFO]: [kirachan: Saved the game]
+[01:25:07] [Server thread/INFO]: PaulderLahber lost connection: Disconnected
+[01:25:07] [Server thread/INFO]: PaulderLahber left the game
+[01:25:25] [Server thread/INFO]: [kirachan: Gamerule keepInventory is now set to: false]
+[01:25:44] [Server thread/INFO]: [kirachan: Set the weather to clear]
+[01:26:25] [Server thread/INFO]: PaulderLahber[/119.95.4.226:62770] logged in with entity id 52369 at (99.97877355058459, 59.0, 33.34859220025311)
+[01:26:25] [Server thread/INFO]: PaulderLahber joined the game
+[01:27:05] [Server thread/INFO]: [PaulderLahber: Set own game mode to Survival Mode]
+[01:27:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/52617, l='world', x=77.78, y=63.00, z=31.29]
+[01:27:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/52617, l='world', x=77.78, y=63.00, z=31.29]
+[01:27:50] [Server thread/INFO]: [kirachan: Set own game mode to Survival Mode]
+[01:30:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/53458, l='world', x=79.10, y=63.00, z=30.25]
+[01:30:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/53458, l='world', x=79.10, y=63.00, z=30.25]
+[01:33:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/54255, l='world', x=77.51, y=63.00, z=31.05]
+[01:33:10] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/54255, l='world', x=77.51, y=63.00, z=31.05]
+[01:33:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/54447, l='world', x=79.74, y=63.00, z=33.88]
+[01:33:36] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/54447, l='world', x=79.74, y=63.00, z=33.88]
+[01:34:05] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/54544, l='world', x=77.96, y=63.00, z=34.51]
+[01:34:05] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/54544, l='world', x=77.96, y=63.00, z=34.51]
+[01:34:58] [Server thread/INFO]: [kirachan: Gave 128 [Arrow] to kirachan]
+[01:36:05] [Server thread/WARN]: kirachan was kicked for floating too long!
+[01:36:05] [Server thread/INFO]: kirachan lost connection: Flying is not enabled on this server
+[01:36:05] [Server thread/INFO]: kirachan left the game
+[01:36:11] [Server thread/INFO]: kirachan[/119.92.6.77:18285] logged in with entity id 55915 at (-82.549246791404, 62.07319337129593, 286.69745234219556)
+[01:36:11] [Server thread/INFO]: kirachan joined the game
+[01:36:28] [Server thread/INFO]: [kirachan: Teleported kirachan to PaulderLahber]
+[01:40:31] [Server thread/INFO]: [kirachan: Teleported kirachan to PaulderLahber]
+[01:41:51] [Server thread/INFO]: PaulderLahber has made the advancement [Take Aim]
+[01:42:23] [Server thread/INFO]: [kirachan: Gave 128 [Arrow] to PaulderLahber]
+[01:45:16] [Server thread/INFO]: PaulderLahber drowned
+[01:45:17] [Server thread/INFO]: [kirachan: Teleported PaulderLahber to kirachan]
+[01:45:29] [Server thread/INFO]: [PaulderLahber: Teleported PaulderLahber to kirachan]
+[01:47:27] [Server thread/INFO]: [kirachan: Teleported PaulderLahber to kirachan]
+[01:52:05] [Server thread/INFO]: [kirachan: Set the time to 1000]
+[01:55:29] [Server thread/INFO]: [kirachan: Set own game mode to Creative Mode]
+[01:55:44] [Server thread/INFO]: [PaulderLahber: Set own game mode to Creative Mode]
+[01:56:31] [Server thread/INFO]: [PaulderLahber: Set own game mode to Survival Mode]
+[01:56:48] [Server thread/INFO]: [kirachan: Set own game mode to Survival Mode]
+[01:57:48] [Server thread/INFO]: kirachan lost connection: Disconnected
+[01:57:48] [Server thread/INFO]: kirachan left the game
+[01:57:50] [Server thread/INFO]: kirachan[/119.92.6.77:18391] logged in with entity id 64059 at (-290.3535332467678, 63.0, 69.19692847795821)
+[01:57:50] [Server thread/INFO]: kirachan joined the game
+[02:04:04] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/66452, l='world', x=84.47, y=63.00, z=35.91]
+[02:04:29] [Server thread/INFO]: [kirachan: Teleported PaulderLahber to kirachan]
+[02:05:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/67116, l='world', x=78.22, y=63.00, z=33.85]
+[02:05:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/67116, l='world', x=78.22, y=63.00, z=33.85]
+[02:07:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/68035, l='world', x=77.44, y=62.17, z=32.54]
+[02:07:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/68255, l='world', x=77.18, y=63.00, z=30.29]
+[02:08:32] [Server thread/INFO]: [PaulderLahber: Set own game mode to Creative Mode]
+[02:08:44] [Server thread/INFO]: [PaulderLahber: Set own game mode to Survival Mode]
+[02:10:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/70043, l='world', x=77.80, y=62.00, z=32.80]
+[02:23:18] [Server thread/INFO]: [kirachan: Set own game mode to Creative Mode]
+[02:23:44] [Server thread/INFO]: [kirachan: Set own game mode to Survival Mode]
+[02:24:27] [Server thread/INFO]: [kirachan: Set own game mode to Creative Mode]
+[02:24:32] [Server thread/INFO]: [kirachan: Set own game mode to Survival Mode]
+[02:30:42] [Server thread/INFO]: [kirachan: Summoned new Slime]
+[02:30:54] [Server thread/INFO]: [kirachan: Summoned new Slime]
+[02:31:33] [Server thread/INFO]: [kirachan: Summoned new Zombie Villager]
+[02:33:38] [Server thread/INFO]: PaulderLahber lost connection: Disconnected
+[02:33:38] [Server thread/INFO]: PaulderLahber left the game
+[02:36:12] [Server thread/INFO]: [kirachan: Set own game mode to Spectator Mode]
+[02:40:50] [Server thread/WARN]: kirachan moved too quickly! -9.297247545475102,0.04793205295808178,-5.854702356078974
+[02:41:11] [Server thread/INFO]: [kirachan: Summoned new Squid]
+[02:41:28] [Server thread/INFO]: kirachan lost connection: Disconnected
+[02:41:28] [Server thread/INFO]: kirachan left the game
+[08:06:04] [Server thread/INFO]: Stopping server
+[08:06:04] [Server thread/INFO]: Saving players
+[08:06:04] [Server thread/INFO]: Saving worlds
+[08:06:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[08:06:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:06:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[08:06:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:06:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[08:06:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:06:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:06:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:06:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
