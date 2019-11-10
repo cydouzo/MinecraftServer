@@ -1,30 +1,23 @@
-[00:00:23] [Server thread/INFO]: <Bai_Vasil> ah
-[00:01:15] [Server thread/INFO]: PaulderLahber lost connection: Timed out
-[00:01:15] [Server thread/INFO]: PaulderLahber left the game
-[00:01:19] [Server thread/INFO]: PaulderLahber[/49.144.70.36:1189] logged in with entity id 81830 at (26.139242352672184, 57.0, -64.9512218639959)
-[00:01:19] [Server thread/INFO]: PaulderLahber joined the game
-[00:03:20] [Server thread/INFO]: PaulderLahber lost connection: Timed out
-[00:03:20] [Server thread/INFO]: PaulderLahber left the game
-[00:03:26] [Server thread/INFO]: PaulderLahber[/49.144.70.36:1213] logged in with entity id 82262 at (102.69999998807907, 66.89483659698448, 23.06549345656055)
-[00:03:26] [Server thread/INFO]: PaulderLahber joined the game
-[00:05:19] [Server thread/INFO]: PaulderLahber lost connection: Timed out
-[00:05:19] [Server thread/INFO]: PaulderLahber left the game
-[00:06:58] [Server thread/INFO]: PaulderLahber[/49.144.70.36:1250] logged in with entity id 82924 at (20.95483905433153, 79.73917859741357, 4.988298046804312)
-[00:06:58] [Server thread/INFO]: PaulderLahber joined the game
-[00:07:19] [Server thread/INFO]: PaulderLahber lost connection: Disconnected
-[00:07:19] [Server thread/INFO]: PaulderLahber left the game
-[01:00:07] [Server thread/INFO]: Bai_Vasil lost connection: Disconnected
-[01:00:07] [Server thread/INFO]: Bai_Vasil left the game
-[12:34:11] [Server thread/INFO]: Stopping the server
-[12:34:11] [Server thread/INFO]: Stopping server
-[12:34:11] [Server thread/INFO]: Saving players
-[12:34:11] [Server thread/INFO]: Saving worlds
-[12:34:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[12:34:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:34:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[12:34:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:34:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[12:34:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:34:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:34:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:34:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:59:04] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:59:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:59:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:59:04] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:59:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:59:05] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[14:59:05] [Server thread/INFO]: Loading properties
+[14:59:05] [Server thread/INFO]: Default game type: SURVIVAL
+[14:59:05] [Server thread/INFO]: Generating keypair
+[14:59:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:59:05] [Server thread/INFO]: Using epoll channel type
+[14:59:06] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[14:59:06] [Server thread/WARN]: The exception was: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+[14:59:06] [Server thread/WARN]: Perhaps a server is already running on that port?
+[14:59:06] [Server thread/INFO]: Stopping server
+[14:59:06] [Server thread/INFO]: Saving worlds
+[14:59:06] [Server thread/ERROR]: Exception stopping the server
+java.lang.NullPointerException: null
+	at net.minecraft.server.MinecraftServer.a(SourceFile:546) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.m(SourceFile:574) ~[server.jar:?]
+	at uk.m(SourceFile:593) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:676) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_222]
