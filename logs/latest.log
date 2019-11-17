@@ -1,61 +1,106 @@
-[23:03:11] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[23:03:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:03:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:03:11] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[23:03:11] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:03:11] [main/INFO]: Loaded 0 recipes
-[23:03:11] [main/INFO]: Loaded 0 advancements
-[23:03:11] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[23:03:11] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[23:03:11] [Server thread/INFO]: Loading properties
-[23:03:11] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: The handle is invalid
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_221]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_221]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_221]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_221]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_221]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_221]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_221]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_221]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_221]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_221]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_221]
-	at so$2.run(SourceFile:110) [Minecraft%20server%201.13.2.jar:?]
-[23:03:11] [Server thread/INFO]: Default game type: SURVIVAL
-[23:03:11] [Server thread/INFO]: Generating keypair
-[23:03:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:03:12] [Server thread/INFO]: Using default channel type
-[23:03:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:03:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:03:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:03:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:03:13] [Server thread/INFO]: Preparing level "world"
-[23:03:13] [Server thread/INFO]: Reloading ResourceManager: Default
-[23:03:15] [Server thread/INFO]: Loaded 524 recipes
-[23:03:16] [Server thread/INFO]: Loaded 571 advancements
-[23:03:16] [Server thread/ERROR]: Could not load aux values
-java.io.EOFException: null
-	at java.io.DataInputStream.readFully(Unknown Source) ~[?:1.8.0_221]
-	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_221]
-	at java.io.DataInputStream.readUTF(Unknown Source) ~[?:1.8.0_221]
-	at hi.a(SourceFile:114) ~[Minecraft%20server%201.13.2.jar:?]
-	at hi.a(SourceFile:84) ~[Minecraft%20server%201.13.2.jar:?]
-	at hi.a(SourceFile:80) ~[Minecraft%20server%201.13.2.jar:?]
-	at cby.a(SourceFile:75) [Minecraft%20server%201.13.2.jar:?]
-	at cck.<init>(SourceFile:24) [Minecraft%20server%201.13.2.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:340) [Minecraft%20server%201.13.2.jar:?]
-	at so.d(SourceFile:251) [Minecraft%20server%201.13.2.jar:?]
-	at net.minecraft.server.MinecraftServer.run(SourceFile:566) [Minecraft%20server%201.13.2.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_221]
-[23:03:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:03:16] [Server thread/INFO]: Time elapsed: 0 ms
-[23:03:16] [Server thread/INFO]: Done (2.281s)! For help, type "help"
-[23:03:16] [Server thread/INFO]: Stopping server
-[23:03:16] [Server thread/INFO]: Saving players
-[23:03:16] [Server thread/INFO]: Saving worlds
-[23:03:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[23:03:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[23:03:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[23:03:16] [Server Shutdown Thread/INFO]: Stopping server
-[23:03:16] [Server Shutdown Thread/INFO]: Saving players
+[18:46:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:46:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:46:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:46:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:46:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:46:51] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[18:46:51] [Server thread/INFO]: Loading properties
+[18:46:51] [Server thread/INFO]: Default game type: SURVIVAL
+[18:46:51] [Server thread/INFO]: Generating keypair
+[18:46:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:46:51] [Server thread/INFO]: Using epoll channel type
+[18:46:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:46:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:46:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:46:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:46:52] [Server thread/INFO]: Preparing level "world"
+[18:46:52] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:46:53] [Server thread/INFO]: Loaded 6 recipes
+[18:46:53] [Server thread/INFO]: Loaded 811 advancements
+[18:46:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:46:55] [Server thread/INFO]: Preparing spawn area: 0%
+[18:46:55] [Server thread/INFO]: Preparing spawn area: 0%
+[18:46:55] [Server thread/INFO]: Preparing spawn area: 0%
+[18:46:57] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[18:46:57] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[18:46:57] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[18:46:57] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[18:46:57] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[18:46:57] [Server thread/INFO]: Preparing spawn area: 0%
+[18:46:58] [Server thread/INFO]: Time elapsed: 4249 ms
+[18:46:58] [Server thread/INFO]: Done (6.014s)! For help, type "help"
+[18:49:56] [Server thread/INFO]: cydouzo[/192.168.1.44:53140] logged in with entity id 645 at (46.53139436836339, 70.0, -52.34324662881016)
+[18:49:56] [Server thread/INFO]: cydouzo joined the game
+[18:51:37] [Server thread/INFO]: Bai_Vasil[/126.65.243.164:50374] logged in with entity id 886 at (75.71503746555034, 64.5, 29.339583377135686)
+[18:51:37] [Server thread/INFO]: Bai_Vasil joined the game
+[18:51:57] [Server thread/INFO]: paulyn[/192.168.1.77:40352] logged in with entity id 1087 at (105.53861774381078, 55.0, 66.9418310598826)
+[18:51:57] [Server thread/INFO]: paulyn joined the game
+[18:51:59] [Server thread/INFO]: Bai_Vasil lost connection: Disconnected
+[18:51:59] [Server thread/INFO]: Bai_Vasil left the game
+[18:52:01] [Server thread/INFO]: Bai_Vasil[/126.65.243.164:50379] logged in with entity id 1124 at (75.71503746555034, 64.5, 29.339583377135686)
+[18:52:01] [Server thread/INFO]: Bai_Vasil joined the game
+[18:56:28] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/2710, l='world', x=79.84, y=63.00, z=31.01]
+[18:57:18] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3024, l='world', x=80.06, y=63.00, z=31.49]
+[19:08:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/5603, l='world', x=79.17, y=63.00, z=29.22]
+[19:08:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/5603, l='world', x=79.17, y=63.00, z=29.22]
+[19:14:21] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/7070, l='world', x=78.01, y=63.00, z=34.05]
+[19:14:21] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/7070, l='world', x=78.01, y=63.00, z=34.05]
+[19:21:13] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/8714, l='world', x=80.67, y=63.00, z=30.73]
+[19:21:13] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/8714, l='world', x=80.67, y=63.00, z=30.73]
+[19:22:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/9031, l='world', x=84.18, y=63.00, z=34.83]
+[19:29:05] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/10461, l='world', x=80.39, y=63.00, z=30.73]
+[19:29:05] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/10461, l='world', x=80.39, y=63.00, z=30.73]
+[19:34:39] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/11811, l='world', x=78.33, y=63.00, z=28.83]
+[19:38:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12757, l='world', x=75.83, y=63.00, z=31.09]
+[19:38:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12757, l='world', x=75.83, y=63.00, z=31.09]
+[19:38:58] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12801, l='world', x=78.19, y=63.00, z=31.56]
+[19:38:58] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12801, l='world', x=78.19, y=63.00, z=31.56]
+[19:39:18] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12980, l='world', x=78.86, y=63.00, z=28.96]
+[19:39:18] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12980, l='world', x=78.86, y=63.00, z=28.96]
+[19:57:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/17030, l='world', x=75.83, y=63.00, z=31.38]
+[19:57:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/17030, l='world', x=75.83, y=63.00, z=31.38]
+[20:01:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/17991, l='world', x=81.17, y=63.00, z=30.90]
+[20:01:33] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/17991, l='world', x=81.17, y=63.00, z=30.90]
+[20:08:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/19519, l='world', x=83.42, y=68.00, z=-56.87]
+[20:09:50] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/19674, l='world', x=76.46, y=63.00, z=30.16]
+[20:09:50] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/19674, l='world', x=76.46, y=63.00, z=30.16]
+[20:19:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/21879, l='world', x=76.27, y=63.00, z=29.39]
+[20:19:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/21879, l='world', x=76.27, y=63.00, z=29.39]
+[20:21:40] [Server thread/INFO]: Bai_Vasil lost connection: Disconnected
+[20:21:40] [Server thread/INFO]: Bai_Vasil left the game
+[20:25:53] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/22878, l='world', x=76.41, y=63.00, z=32.91]
+[20:25:53] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/22878, l='world', x=76.41, y=63.00, z=32.91]
+[20:29:23] [Server thread/INFO]: [cydouzo: Set own game mode to Survival Mode]
+[20:39:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/25494, l='world', x=79.13, y=63.00, z=30.74]
+[20:39:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/25666, l='world', x=80.80, y=60.00, z=30.80]
+[20:47:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/27932, l='world', x=76.55, y=63.00, z=29.35]
+[20:49:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/28503, l='world', x=80.80, y=60.00, z=30.20]
+[20:55:46] [Server thread/INFO]: cydouzo has made the advancement [Not Today, Thank You]
+[21:00:07] [Server thread/INFO]: [paulyn: Set own game mode to Survival Mode]
+[21:01:50] [Server thread/INFO]: [paulyn: Set own game mode to Creative Mode]
+[21:03:19] [Server thread/INFO]: [paulyn: Set own game mode to Survival Mode]
+[21:10:38] [Server thread/INFO]: [cydouzo: Teleported paulyn to cydouzo]
+[21:10:38] [Server thread/WARN]: paulyn moved too quickly! -141.93655975582806,-36.0,-95.19460904263993
+[21:27:38] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/37487, l='world', x=76.66, y=63.00, z=29.87]
+[21:35:32] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/39072, l='world', x=77.59, y=63.00, z=32.61]
+[21:35:32] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/39072, l='world', x=77.59, y=63.00, z=32.61]
+[21:38:59] [Server thread/INFO]: paulyn lost connection: Timed out
+[21:38:59] [Server thread/INFO]: paulyn left the game
+[21:38:59] [Server thread/WARN]: handleDisconnection() called twice
+[21:43:32] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/40391, l='world', x=75.83, y=63.00, z=31.41]
+[21:44:14] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/40526, l='world', x=76.82, y=63.00, z=30.87]
+[21:48:02] [Server thread/INFO]: cydouzo lost connection: Disconnected
+[21:48:02] [Server thread/INFO]: cydouzo left the game
+[21:48:06] [Server thread/INFO]: Stopping the server
+[21:48:06] [Server thread/INFO]: Stopping server
+[21:48:06] [Server thread/INFO]: Saving players
+[21:48:06] [Server thread/INFO]: Saving worlds
+[21:48:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[21:48:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:48:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:48:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:48:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[21:48:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:48:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:48:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:48:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved

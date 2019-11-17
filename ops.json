@@ -28,5 +28,11 @@
     "name": "cydouzo",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6afc948d-ba22-3a57-bbc6-bea38f5e72c9",
+    "name": "Bai_Vasil",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
