@@ -729,6 +729,7 @@
       "minecraft:creeper": "2019-11-02 16:51:05 +0900",
       "minecraft:phantom": "2019-11-18 00:31:15 +0900",
       "minecraft:husk": "2019-11-02 14:33:08 +0900",
+      "minecraft:cave_spider": "2019-11-23 18:22:49 +0900",
       "minecraft:zombie": "2019-10-03 13:14:48 +0900",
       "minecraft:drowned": "2019-10-03 12:54:02 +0900"
     },
@@ -2051,7 +2052,9 @@
       "potato": "2019-11-02 17:12:38 +0900",
       "pumpkin_pie": "2019-11-17 22:36:50 +0900",
       "bread": "2019-11-02 15:06:39 +0900",
-      "cooked_rabbit": "2019-10-03 13:02:18 +0900"
+      "cooked_rabbit": "2019-10-03 13:02:18 +0900",
+      "cooked_chicken": "2019-11-24 00:19:21 +0900",
+      "carrot": "2019-11-23 22:52:53 +0900"
     },
     "done": false
   },
@@ -2344,6 +2347,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2019-11-07 22:27:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2019-11-21 23:14:49 +0900"
     },
     "done": true
   },
