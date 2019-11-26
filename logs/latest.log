@@ -1,14 +1,414 @@
-[15:13:24] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Input/output error
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
-	at java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:290) ~[?:?]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[?:?]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:?]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:?]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:?]
-	at java.io.InputStreamReader.read(InputStreamReader.java:185) ~[?:?]
-	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
-	at uk$2.run(SourceFile:109) [server.jar:?]
+[20:48:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:48:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:48:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:48:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:48:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:48:46] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[20:48:46] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[20:48:46] [Server thread/INFO]: Loading properties
+[20:48:46] [Server thread/INFO]: Default game type: SURVIVAL
+[20:48:46] [Server thread/INFO]: Generating keypair
+[20:48:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:48:47] [Server thread/INFO]: Using epoll channel type
+[20:48:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:48:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:48:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:48:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:48:47] [Server thread/INFO]: Preparing level "world"
+[20:48:47] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:48:50] [Server thread/INFO]: Loaded 6 recipes
+[20:48:51] [Server thread/INFO]: Loaded 811 advancements
+[20:48:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:48:54] [Server thread/INFO]: Preparing spawn area: 0%
+[20:48:54] [Server thread/INFO]: Preparing spawn area: 0%
+[20:48:54] [Server thread/INFO]: Preparing spawn area: 0%
+[20:48:54] [Server thread/INFO]: Preparing spawn area: 0%
+[20:48:54] [Server thread/INFO]: Preparing spawn area: 0%
+[20:48:55] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:59] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:51:00] [Server thread/INFO]: Preparing spawn area: 0%
+[20:51:00] [Server thread/INFO]: Preparing spawn area: 51%
+[20:51:00] [Server thread/INFO]: Time elapsed: 127840 ms
+[20:51:00] [Server thread/INFO]: Done (133.522s)! For help, type "help"
+[20:51:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@3dd250b4[id=<null>,name=cydouzo,properties={},legacy=false] (/118.243.113.215:48802) lost connection: Disconnected
+[20:51:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@70e92446[id=<null>,name=cydouzo,properties={},legacy=false] (/118.243.113.215:48804) lost connection: Disconnected
+[20:51:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@5f919d1f[id=<null>,name=cydouzo,properties={},legacy=false] (/118.243.113.215:48816) lost connection: Disconnected
+[20:51:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@52810b9c[id=<null>,name=cydouzo,properties={},legacy=false] (/118.243.113.215:48820) lost connection: Disconnected
+[20:51:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@4ad54038[id=<null>,name=cydouzo,properties={},legacy=false] (/118.243.113.215:48822) lost connection: Disconnected
+[20:51:03] [Server thread/INFO]: cydouzo[/118.243.113.215:48824] logged in with entity id 359 at (-265.4453115251895, 62.0, 620.7489625337479)
+[20:51:03] [Server thread/INFO]: cydouzo joined the game
+[20:51:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[20:51:43] [Server thread/INFO]: Bai_Vasil[/126.65.243.164:51031] logged in with entity id 868 at (269.35905169961245, 63.0, -491.1826244652146)
+[20:51:43] [Server thread/INFO]: Bai_Vasil joined the game
+[20:51:51] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -1.4578083419929442,0.0,10.075543691719645
+[20:51:51] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -1.4201146364541444,0.0,10.468432810830336
+[20:51:51] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -1.3775385419611155,0.0,10.861085308817906
+[20:51:51] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -1.3303849294239853,0.0,11.253483754123067
+[20:51:51] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -1.2789507960980018,0.0,11.645616783404876
+[20:51:51] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -1.2241993730936827,0.0,12.037630654200939
+[20:51:51] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -1.167627891231291,0.0,12.42977155096844
+[20:51:51] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -1.1111669741785306,0.0,12.822311390736559
+[20:51:51] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -1.0563856696836353,0.0,13.215399710207407
+[20:51:51] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -1.0045454629580206,0.0,13.60909840827037
+[20:51:52] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! 0.927037094256832,0.0,10.268162153277444
+[20:51:52] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! 0.9753831038899534,0.0,10.66256923656374
+[20:51:52] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! 1.0298768264631235,0.0,11.055997369255124
+[20:51:52] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! 1.0905215525178846,0.0,11.448362518157296
+[20:51:52] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! 1.157255137574282,0.0,11.839598985021553
+[20:51:53] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! 2.671409326521484,0.0,9.94654251998395
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! 1.4040136895555122,0.0,10.17399418397929
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! 1.400367725374423,0.0,10.571971476194562
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! 1.3943962533963372,0.0,10.970060466998575
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! 1.3862629554803334,0.0,11.368245285213447
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! 1.375427044829138,0.0,11.766456788154528
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! 1.3607859110930747,0.0,12.164547248269514
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! 1.3407968666837746,0.0,12.562244336479125
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! 1.3142785672606863,0.0,12.959252013273613
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! 1.2803547431349216,0.0,13.355273891767183
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! 1.238402889310123,0.0,13.750028598279982
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! 1.1880115915529927,0.0,14.143259979604636
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! 1.1289421887756816,0.0,14.534742638761145
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -1.937411983646058,0.0,10.003007706335666
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.1038389302124756,0.0,10.36086724081781
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.2748803327978635,0.0,10.7168249288369
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.4502369317913804,0.0,11.07096866606355
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.629622752678671,0.0,11.4233871251447
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -4.836269925106478,0.0,-29.21746295398748
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -4.836269925106478,0.0,-29.21746295398748
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -4.9892077351130695,0.0,-28.86120277524958
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -4.836269925106478,0.0,-29.21746295398748
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -4.836269925106478,0.0,-29.21746295398748
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -4.836269925106478,0.0,-29.21746295398748
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -4.836269925106478,0.0,-29.21746295398748
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -4.836269925106478,0.0,-29.21746295398748
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -4.836269925106478,0.0,-29.21746295398748
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -4.836269925106478,0.0,-29.21746295398748
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -4.836269925106478,0.0,-29.21746295398748
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -4.9647761328076,0.0,-28.857887410804892
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -5.069585910225129,0.0,-28.495768931533235
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -5.150884165341324,0.0,-28.132045508645206
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -5.209093143127774,0.0,-27.767598502565193
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -5.244820553791897,0.0,-27.40323268232885
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -5.258812869573518,0.0,-27.039666327430382
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -5.251920692152112,0.0,-26.67752534069632
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -5.225061595841282,0.0,-26.31734662607255
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -5.179200931974833,0.0,-25.959577559804984
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -5.1153286966982705,0.0,-25.604582324332455
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -5.034439753200445,0.0,-25.25265037295594
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -4.937523161927999,0.0,-24.90400167875555
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -4.825550137713549,0.0,-24.558795217434067
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -4.6994669327564225,0.0,-24.21713553830523
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -4.560186008004024,0.0,-23.879082107313025
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -4.408584515383723,0.0,-23.5446536402809
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -4.245503203757806,0.0,-23.213832487124137
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -4.071740053101109,0.0,-22.88657416930107
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -3.888053413314651,0.0,-22.562808708516627
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -3.6951565981287615,0.0,-22.24244991761111
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -3.951512047257694,0.0,-19.344584734775935
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -3.951512047257694,0.0,-19.344584734775935
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -3.951512047257694,0.0,-19.344584734775935
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -3.951512047257694,0.0,-19.344584734775935
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -3.951512047257694,0.0,-19.344584734775935
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -3.768905298556433,0.0,-19.017288257003543
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -3.5952572173879673,0.0,-18.683818950931254
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -3.4294036134384385,0.0,-18.344859262314117
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -3.270323193885247,0.0,-18.001018650020796
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -3.1171194496340604,0.0,-17.65284135038553
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.969008086604674,0.0,-17.300812523208265
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.8253020165380462,0.0,-16.94536481506111
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.685405273226479,0.0,-16.58688234401336
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.5487927411992644,0.0,-16.225708361351963
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.415006733538945,0.0,-15.862148168519525
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.2836502071149027,0.0,-15.496472770538503
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.154376974775545,0.0,-15.128923229526322
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -2.026886597397464,0.0,-14.75971356957939
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -1.9009161061429438,0.0,-14.389034478953704
+[20:51:54] [Server thread/WARN]: Boat (vehicle of cydouzo) moved too quickly! -1.776236239598063,0.0,-14.017055591495364
+[20:51:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 37608ms or 752 ticks behind
+[20:52:36] [Server thread/INFO]: cydouzo lost connection: Disconnected
+[20:52:36] [Server thread/INFO]: cydouzo left the game
+[20:52:38] [Server thread/INFO]: Bai_Vasil lost connection: Disconnected
+[20:52:38] [Server thread/INFO]: Bai_Vasil left the game
+[20:52:41] [Server thread/INFO]: Stopping the server
+[20:52:41] [Server thread/INFO]: Stopping server
+[20:52:41] [Server thread/INFO]: Saving players
+[20:52:41] [Server thread/INFO]: Saving worlds
+[20:52:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[20:52:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:52:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:52:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:52:51] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[20:52:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:52:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:52:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:52:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:52:52] [Server-Worker-5/ERROR]: Cound not schedule mailbox
+java.util.concurrent.RejectedExecutionException: null
+	at java.util.concurrent.ForkJoinPool.externalSubmit(ForkJoinPool.java:2328) ~[?:1.8.0_222]
+	at java.util.concurrent.ForkJoinPool.externalPush(ForkJoinPool.java:2419) ~[?:1.8.0_222]
+	at java.util.concurrent.ForkJoinPool.execute(ForkJoinPool.java:2648) ~[?:1.8.0_222]
+	at agt.f(SourceFile:112) ~[server.jar:?]
+	at agt.a(SourceFile:101) ~[server.jar:?]
+	at uy.a(SourceFile:142) ~[server.jar:?]
+	at uy.a(SourceFile:150) ~[server.jar:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:656) ~[?:1.8.0_222]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:632) ~[?:1.8.0_222]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474) ~[?:1.8.0_222]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:1962) ~[?:1.8.0_222]
+	at ags$1.a(SourceFile:32) ~[server.jar:?]
+	at uy.b(SourceFile:59) ~[server.jar:?]
+	at agt.e(SourceFile:83) [server.jar:?]
+	at agt.a(SourceFile:123) [server.jar:?]
+	at agt.run(SourceFile:91) [server.jar:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1402) [?:1.8.0_222]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_222]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_222]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_222]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) [?:1.8.0_222]
